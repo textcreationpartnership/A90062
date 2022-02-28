@@ -1,0 +1,784 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of such as would walke worthy of the Gospel: to endeavour union, not division nor toleration. Opened, in a sermon at Pauls, upon the Lords Day, Feb. 8. 1646. / By Matthevv Nevvcomen, preacher of the Gospel at Dedham in Essex.</title>
+            <author>Newcomen, Matthew, 1610?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90062</idno>
+            <idno type="STC">Wing N909</idno>
+            <idno type="STC">Thomason E329_6</idno>
+            <idno type="STC">ESTC R200691</idno>
+            <idno type="EEBO-CITATION">99861368</idno>
+            <idno type="PROQUEST">99861368</idno>
+            <idno type="VID">113501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113501)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E329[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of such as would walke worthy of the Gospel: to endeavour union, not division nor toleration. Opened, in a sermon at Pauls, upon the Lords Day, Feb. 8. 1646. / By Matthevv Nevvcomen, preacher of the Gospel at Dedham in Essex.</title>
+                  <author>Newcomen, Matthew, 1610?-1669.</author>
+               </titleStmt>
+               <extent>[4], 50, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Christopher Meredith, at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.XLVI. [1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Annotation on Thomason copy: The I in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians I, 27 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113501:1" rendition="simple:additions"/>
+            <p>THE DVTY of ſuch as would WALKE WORTHY OF THE GOSPEL: TO Endeavour <hi>
+                  <g ref="char:V">Ʋ</g>NION,</hi> NOT <hi>DIVISION</hi> nor <hi>TOLERATION.</hi> OPENED, In a SERMON at <hi>Pauls,</hi> upon the Lords Day, <hi>Feb.</hi> 8. 1646.</p>
+            <p>By MATTHEVV NEVVCOMEN, Preacher of the Goſpel at <hi>Dedham</hi> in <hi>Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>1 COR. 1.10.</bibl>
+               <p>Now I beſeech you brethren, by the Name of our Lord Jeſus Christ, that ye ALL SPEAK the SAME thing, and that there be no DIVISIONS among you: but that ye be perfectly joined toge<g ref="char:EOLhyphen"/>ther in the SAME MINDE and in the SAME J<g ref="char:V">Ʋ</g>DGE<g ref="char:EOLhyphen"/>MENT.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p> 
+               <bibl>Ignat in Ep. ad Polvcarp.</bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p> 
+               <bibl>Ignat. in Ep. au P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lodelph.</bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>Idem. ibidem.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>Chriſtopher Meredith,</hi> at the Crane in <hi>Pauls</hi> Church-yard, M.DC.XLVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113501:2"/>
+            <pb facs="tcp:113501:2"/>
+            <head>TO THE RIGHT HONOVRABLE <hi>THOMAS ADAMS,</hi> Lord Major of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon as it was firſt preached at your appointment, ſo at the ſame appointment of yours it is now publiſhed in print. It befell this Sermon in the preaching of it, as it did <hi>Pauls,</hi> Acts <hi>13.</hi> Some contradicted, <hi>&amp;c.</hi> ver. <hi>43.</hi> o<g ref="char:EOLhyphen"/>thers were glad, and glorified the word of the Lord, <hi>ver. 48.</hi> To have your <hi>Lordſhip</hi> and the reſt of your <hi>Venerable Colleagues</hi> in this later ranke of hea<g ref="char:EOLhyphen"/>rers, hath been to me no ſmall comfort againſt the cenſures of others. Though my chief comfort is this, the teſtimony of my conſcience; that as of ſincerity, that as of God and as in the ſight of God, this Ser<g ref="char:EOLhyphen"/>mon was preached unto you, not as ſeeking to pleaſe
+<pb facs="tcp:113501:3"/>men, but to edifie the Church of Chriſt, and to contri<g ref="char:EOLhyphen"/>bute ſomething towards the compoſing of our differ<g ref="char:EOLhyphen"/>ences and cloſing of our breaches. If any thing then communicated to the ear, and now offered to the view, may be ſucceſſefull in this kinde, herein I do re<g ref="char:EOLhyphen"/>joice and ſhall rejoice. God hath called your Lordſhip to the <hi>Government</hi> of this <hi>great City,</hi> and I doubt not but you finde the <hi>diviſions</hi> of this <hi>City,</hi> amongſt the greatest <hi>difficulties</hi> of your <hi>Government:</hi> We are at this time like men at ſea, that have not only a <hi>tempeſt</hi> upon them, but a commotion among them; not only the <hi>windes</hi> and <hi>waves</hi> raging furiouſly a<g ref="char:EOLhyphen"/>gainſt the ſhip, but the Mariners (who ſhould do ſer<g ref="char:EOLhyphen"/>vice in the ſtorme) raging as furiouſly one against another.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z Orat. 32.</note> 
+               <hi>My Lord,</hi> the hand of providence hath placed you at the <hi>helme</hi> of this <hi>City,</hi> he will give you wiſedome, ſtrength and courage, to bring this ſhip (this City) ſafe out of this <hi>double tempeſt:</hi> which is and ſhall be the prayer of him who is</p>
+            <closer>
+               <signed>SIR, Your ſervant in the Lord and in his worke, <hi>MATTH. NEWCOMEN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113501:3"/>
+            <head>A SERMON at <hi>PA<g ref="char:V">Ʋ</g>LS</hi> upon the LORDS Day, <hi>February</hi> 8<hi rend="sup">th</hi> 1645.</head>
+            <epigraph>
+               <q>
+                  <bibl>PHILIP. 1.27.</bibl>
+                  <p>—That ye ſtand faſt in one ſpirit, with one minde.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Aving formerly ſpoken in this place of the later words of this verſe, <hi>striving together for the faith of the Goſpel:</hi> I ſhall at this time crave leave to lead you to the words immediatly fore-going <hi>(in one ſpirit, with one minde)</hi> as containing matter of Inſtruction, which if the Lord helpe us to draw forth, may be both ſeaſonable and profitable.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Some joyn both theſe with the former <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and ſo read the ſentence thus: <hi>That you ſtand faſt in one ſpirit, with one minde;</hi> So the Syriack; ſo <hi>Theophylact;</hi> ſo ſome Greek Copies; and to that ſenſe the Vulgar Tranſlation, <hi>quia ſtatis in
+<pb n="2" facs="tcp:113501:4"/>uno ſpiritu unanimes.</hi> Others refer the firſt part of this clauſe to the words fore-going; <hi>That ye ſtand faſt in one ſpirit;</hi> the other to the words following, thus; <hi>with one minde striving together for the faith of the Go<g ref="char:EOLhyphen"/>ſpel.</hi> So <hi>Beza, Zanchius, Eſtius</hi> and others.</p>
+            <p>
+               <hi>By one ſpirit</hi> here ſome underſtand the <hi>Spirit of God,</hi> which is <hi>One</hi> in it ſelf, and <hi>One</hi> and the ſame in the hearts of all beleevers. So <hi>Beza,</hi> ſo <hi>Zanchius</hi> and <hi>Meelfhurerus;</hi> therefore <hi>Zanchius</hi> reads it<g ref="char:punc">▪</g> 
+               <hi>per u<g ref="char:EOLhyphen"/>num ſpiritum,</hi> not <hi>in uno ſpiritu.</hi>
+            </p>
+            <p>Others make the words,<note place="margin">Eſtius. Velaſquez.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Synony<g ref="char:EOLhyphen"/>mous,</hi> and by both underſtand the ſpirit or ſoul of man; and obſerve that uſually (ſome ſay alwayes) in Scripture, where theſe two, <hi>ſpirit</hi> and <hi>ſoul,</hi> or <hi>ſpirit</hi> and <hi>minde</hi> are joyned together, they are both but one: Only by <hi>ſpirit</hi> is underſtood the ſuperiour and ra<g ref="char:EOLhyphen"/>tionall part of the ſoul, the <hi>underſtanding:</hi> and by <hi>ſoul,</hi> the inferiour and affecting part; ſo that <hi>one ſpirit and one ſoul</hi> here, I conceive to be the ſame with <hi>one minde</hi> and <hi>one heart.</hi>
+            </p>
+            <p>So that the thing which the <hi>Apoſtle</hi> in theſe words commends to the ſpeciall care and endeavour of the <hi>Philippians,</hi> it is concord and <hi>union:</hi> and this <hi>union</hi> it muſt be, Firſt a ſtrict and cloſe <hi>union;</hi> they are all to ſtand as firmely united together as if they had but <hi>one ſoul.</hi> Secondly, a ſweet <hi>union,</hi> not forced upon them, but naturally flowing from an inward uniting prin<g ref="char:EOLhyphen"/>ciple; <hi>one ſpirit</hi> and <hi>one ſoul.</hi> Thirdly, a holy union, it muſt be <hi>in and for the faith of the Goſpel.</hi> Fourthly, a la<g ref="char:EOLhyphen"/>ſting conſtant <hi>union,</hi> out of which they muſt never be ſhaken, they muſt <hi>ſtand faſt in one ſpirit, with one minde.</hi>
+            </p>
+            <pb n="3" facs="tcp:113501:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label> The Doctrine out of the words is this: <hi>That all thoſe who would walke worthy of the Goſpel, muſt endeavour<g ref="char:punc">▪</g> a ſweet, cloſe, holy, laſting union among themſelves.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proof. </seg>
+               </label> I ſhall not need go far for the proof of this: Be pleaſed but to let your eye fall upon the beginning of the next chapter, and you ſhall ſee the Apoſtle with much vehemency preſſing this very duty: <hi>If there be therefore any conſolation in Chriſt, if any comfort of love,</hi>
+               <note place="margin">Phil. 1.1, 2.</note> 
+               <hi>if any fellowſhip of the ſpirit, if any bowels of mercies, ful<g ref="char:EOLhyphen"/>fill ye my joy, that ye be like minded, having the ſame love, being of one accord, of one minde:</hi> as if the Apoſtle had ſaid; If ever ye taſted ſweetneſſe in Chriſt, if ever ye found comfort in Gods love, if ye be Chri<g ref="char:EOLhyphen"/>ſtians and have any fellowſhip of the ſpirit, if ye be men and have any bowels of mercies, if ye pity me in my bonds, and would do any thing to rejoyce the heart of a poor priſoner of the Lord Jeſus, fulfill ye my joy in this, that ye be like minded, having the ſame love, yea the ſame ſoul, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Vehemens quidem or a<g ref="char:EOLhyphen"/>tio, non verborum ſolum ſed ſententiarum etiam congerie abundans, &amp; ad deliniendos permovendoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> animos pluri<g ref="char:EOLhyphen"/>mùm valens:</hi> A moſt powerfull exhortation this is, wherein the Apoſtle heaps up not only words but ar<g ref="char:EOLhyphen"/>guments <hi>(quot verba tot tonitrua;</hi> as <hi>Hierome</hi> of ano<g ref="char:EOLhyphen"/>ther paſſage of <hi>Pauls</hi> Epiſtles:) One would thinke the Apoſtle had ſaid enough of this particular now,<note place="margin">
+                  <hi>Phil. 3.16.</hi> Fort aſſis baec ipſa verba <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, eſt illa ipſa re<g ref="char:EOLhyphen"/>gula ad cujus praeſcriptum nos vult in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>dere Apoſtolus.</note> and that he need not ſpeak one word more to theſe <hi>Philippians</hi> about this, yet he cannot thinke ſo: there<g ref="char:EOLhyphen"/>fore ye have him again, <hi>Phil.</hi> 3.16. inſiſting upon the ſamething: <hi>Nevertheleſſe, whereto we have already at<g ref="char:EOLhyphen"/>tained, let us walke by the ſame rule, let us minde the ſame thing. Beza</hi> conceives that the very rule which the
+<pb n="4" facs="tcp:113501:5"/>Apoſtle would have us walke by, is this rule of <hi>union,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to minde the ſame thing. Nay, the bleſ<g ref="char:EOLhyphen"/>ſed Apoſtle cannot content himſelf with this yet, but if there be but <hi>two</hi> in the Church of <hi>Philippi,</hi> and they but <hi>women</hi> that are at ſome difference, <hi>Paul</hi> cannot for<g ref="char:EOLhyphen"/>bear, but he muſt exhort them by name, <hi>Phil.</hi> 4.2. <hi>I beſeech Evodias and beſeech Syntyche,</hi>
+               <note place="margin">Phil. 4.2.</note> 
+               <hi>that they be of the ſame minde in the Lord.</hi> Theſe were two women in <hi>Philippi</hi> (ſo <hi>Theodor. Theoph. Zanch.</hi> and others,) and it ſeems there was ſome breach, ſome diſſenſion, ei<g ref="char:EOLhyphen"/>ther between them two, or between them and the reſt of the Church: <hi>Zanchy</hi> brings many reaſons to prove that it was in ſome point of faith and religion, where<g ref="char:EOLhyphen"/>in that difference lay; and of this minde were <hi>An<g ref="char:EOLhyphen"/>ſelme, Primaſius</hi> and <hi>Remigius</hi> before him. Some would have lookt upon this ſo ſmall a breach as a con<g ref="char:EOLhyphen"/>temptible thing; what if a couple of weak women have taken up a ſingular opinion, need the great Apo<g ref="char:EOLhyphen"/>ſtle trouble himſelf with that? But <hi>Paul</hi> knew how great a matter a little fire kindles, a diſſenſion of two women may quickly divide a whole Church, there<g ref="char:EOLhyphen"/>fore <hi>Paul</hi> powres water (or rather milke, which they ſay will quench wilde fire) upon this burning pre<g ref="char:EOLhyphen"/>ſently: I beſeech <hi>Evodias,</hi> and I beſeech <hi>Syntyche,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be of one minde in the Lord; as who ſhould ſay, I would not have any <hi>one</hi> of you, no not <hi>one woman</hi> among you be of another minde from the reſt of the people of God.</p>
+            <p>But was not this the Apoſtles peculiar and extra<g ref="char:EOLhyphen"/>ordinary care for the <hi>Philippians?</hi> and was it not a pe<g ref="char:EOLhyphen"/>culiar injunction upon them? No, you ſhall finde the like in other Epiſtles,<note place="margin">Rom. 12.16.</note> 
+               <hi>Rom.</hi> 12.16. <hi>Be of the ſame minde
+<pb n="5" facs="tcp:113501:5"/>one towards another,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: And 1 <hi>Cor.</hi> 1.10. ſee with what authority the Apoſtle in<g ref="char:EOLhyphen"/>joyns this upon them. <hi>Now I beſeech you,</hi>
+               <note place="margin">1 Cor. 1.10.</note> 
+               <hi>brethren, by the Name of our Lord Jeſus Christ, that ye all ſpeak the ſame thing, and that there be no diviſions among you, but that ye be perfectly joyned together in the ſame minde, and in the ſame judgement.</hi> And again in 2 <hi>Cor.</hi> 13.11. where the Apoſtle is about to take his leave of the Saints there, ſee what he leaves as his laſt advice with them; <hi>Finally, brethren, farewell, be perfect,</hi>
+               <note place="margin">2 Cor. 13.11.</note> 
+               <hi>be of good comfort, be of one minde, live in peace, and the God of peace ſhall be with you.</hi> It is obſervable how the Apo<g ref="char:EOLhyphen"/>ſtle makes this the <hi>Alpha</hi> of his firſt Epiſtle, and the <hi>Omega</hi> of his laſt. The <hi>firſt duty</hi> he commends to the <hi>Corinthians</hi> in his <hi>firſt Epiſtle,</hi> is this <hi>union,</hi> and the <hi>laſt duty</hi> he commends to them in his <hi>laſt Epiſtle,</hi> is this <hi>u<g ref="char:EOLhyphen"/>nion,</hi> as if this were the <hi>Alpha</hi> and <hi>Omega,</hi> the <hi>primum &amp; ultimum,</hi> the <hi>beginning</hi> and <hi>perfection</hi> of <hi>Chriſtianity,</hi> to be <hi>All of One Minde.</hi>
+            </p>
+            <p>So again, <hi>Epheſ.</hi> 4.1, 2, 3. <hi>I therefore the priſoner of the Lord, beſeech ye that ye walks worthy of the vocation wherewith you are called, with all lowlineſſe and meekneſſe, with long-ſuffering, for bearing one another in love, endea<g ref="char:EOLhyphen"/>vouring to keep the unity of the ſpirit in the bond of peace.</hi> See how affectionately, and with what a powerfull heavenly <hi>Suada</hi> the Apoſtle here again preſſeth this duty; <hi>I therefore</hi> ſuch a one as <hi>Paul</hi> the aged, now in bonds, <hi>the priſoner of the Lord,</hi> ready to be offered up in the ſervice of your faith: I therefore the priſoner <hi>of the Lord beſeech you;</hi> though as your father in Chriſt, &amp; as one that hath been rapt up into the third Heaven, I might command you, yet <hi>I beſeech you,</hi> I have but one
+<pb n="6" facs="tcp:113501:6"/>requeſt to make to you before I die, and it is this, <hi>that you walke worthy of the vocation wherewith you are called.</hi> God hath called you out of darkeneſſe into his mar<g ref="char:EOLhyphen"/>vellous light, now let it be your care to walke worthy of this high, holy and glorious calling. If you aske how you may do that, take this rule, <hi>with all lowlineſſe and meekneſſe,</hi> &amp;c. <hi>endeavouring to keep the unity of the ſpirit in the bond of peace:</hi> where you have three things, <hi>quid, quomodo, quibus medys;</hi> 1. The duty to be per<g ref="char:EOLhyphen"/>formed. 2. The manner of performing that duty. 3.<note place="margin">Non jubet fa<g ref="char:EOLhyphen"/>cere, ſed in Chri<g ref="char:EOLhyphen"/>ſto factae unita<g ref="char:EOLhyphen"/>tis non perfun<g ref="char:EOLhyphen"/>ctoriam ſed ac<g ref="char:EOLhyphen"/>curatiſſimam rationem babe<g ref="char:EOLhyphen"/>re: Ne ip ſi e<g ref="char:EOLhyphen"/>am turbent, e<g ref="char:EOLhyphen"/>juſve pertur<g ref="char:EOLhyphen"/>bandae ullam occafionem prae<g ref="char:EOLhyphen"/>beant, quin po<g ref="char:EOLhyphen"/>tius ab alijs da<g ref="char:EOLhyphen"/>tam ſumma di<g ref="char:EOLhyphen"/>ligentia &amp; ſollicitu line praecident, &amp; contentiones ſubortas pro vi<g ref="char:EOLhyphen"/>rili legitimè componere co<g ref="char:EOLhyphen"/>nentur, omnia<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, toto faciant corde quoe ad unitatem tuen<g ref="char:EOLhyphen"/>dam ſunt neceſ: ſaria &amp; com<g ref="char:EOLhyphen"/>moda <hi>Croc.</hi> ad locum.</note> The means whereby they may be enabled unto that duty. The duty is, <hi>to keep the unity of the ſpirit,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>endeavour<g ref="char:EOLhyphen"/>ing to keep the unity of the ſpirit.</hi> The word ſignifies no ſlight or low endeavour, but an endeavour full of diligence and induſtry, <hi>endeavouring to keep. Non jubet facere,</hi> &amp;c. The Apoſtle doth not bid make unity, but to have, not a perfunctory, but an exact care of that u<g ref="char:EOLhyphen"/>nity which Chriſt hath made and wrought, that they neither trouble it, nor give any occaſion for the di<g ref="char:EOLhyphen"/>ſturbing of it, but rather with all care and diligence cut off occaſions given by others, labouring with all their might to compoſe ſuch differences as might a<g ref="char:EOLhyphen"/>riſe, and performing with all their hearts all things that might tend to the preſervation of unity. The man<g ref="char:EOLhyphen"/>ner how this duty is to be performed, or how this uni<g ref="char:EOLhyphen"/>ty of the ſpirit is to be kept, is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Apoſtle doth not ſay, <hi>keeping the unity of the ſpirit in peace,</hi> but in the bond of peace, <hi>ut ſignificetur,</hi> ſaith <hi>Hyperius,</hi> that to the preſerving of this unity, is requi<g ref="char:EOLhyphen"/>red a ſolid peace amongſt Chriſtians, that cannot by any means be diſſolved, <hi>ſed arctiſsimè juncta moneat.
+<pb n="7" facs="tcp:113501:6"/>Vbi enim pax decollat, ibi ceſsit unitas ſpiritus,</hi> ſaith a<g ref="char:EOLhyphen"/>nother; <hi>If this peace be cut off, farewell the unity of the ſpirit.</hi> The means whereby we may be inabled to perform this duty in this manner, to keep the unity of the ſpirit in the bond of peace, are the graces com<g ref="char:EOLhyphen"/>manded in the ſecond verſe, <hi>with all lowlineſſe of minde and meekneſſe, with long ſuffering, forbearing one another in love.</hi> And ſo full was the heart of this bleſſed Apo<g ref="char:EOLhyphen"/>ſtle with zeal for this peace and union, that in the three following verſes he proſecutes the ſame ſubject, and by ſeven arguments enforceth this endeavour of union upon them, of which more anon.</p>
+            <p>Nor was this <hi>Pauls</hi> zeal and care alone: you ſhall finde other of the Apoſtles of the ſame ſpirit. So the Apoſtle <hi>Peter,</hi> 1 Ep. 3.8. <hi>Finally brethren, be ye all of one minde,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>omnes eſtote concordes.</hi> So <hi>Beza,</hi>
+               <note place="margin">1 Pet 3.8.</note> 
+               <hi>Vnanimes,</hi> ſo the Vulgar, <hi>love as brethren.</hi> So the Apo<g ref="char:EOLhyphen"/>ſtle <hi>John,</hi> that <hi>firſt Epistle</hi> of his,<note place="margin">1 Iohn.</note> ſeems almoſt to be written on purpoſe to perſwade to brotherly love, which is the root of union. Now if you add to theſe Scriptures, wherein the Apoſtles do moſt induſtriouſ<g ref="char:EOLhyphen"/>ly labour this in the hearts of the people by exhorta<g ref="char:EOLhyphen"/>tion, thoſe other Scriptures, where they do in the be<g ref="char:EOLhyphen"/>halfe of the people endeavour this in Heaven by pray<g ref="char:EOLhyphen"/>er, that <hi>the God of peace and unity would worke this unity and peace among them,</hi> you will ſee that this <hi>endeavour after union,</hi> is a duty ſtill of more worth and neceſſity. Of this kinde is that of the Apoſtle <hi>Paul,</hi> Rom. 15.5, 6.<note place="margin">Rom. 15.5, 6.</note> 
+               <hi>Now the God of patience and conſolation, grant you to be like-minded one towards another,</hi> (or to be of one minde among your ſelves, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Ipſum ſa<g ref="char:EOLhyphen"/>pere in alterutrum,</hi> ſo the Vulgar) <hi>according to Chriſt
+<pb n="8" facs="tcp:113501:7"/>Jeſus: That ye may with one minde and one mouth glorifie God, even the Father of our Lord Jeſus Chriſt.</hi> But <hi>inſtar omnium</hi> is that of our Saviour,<note place="margin">Ioh. 11.17.</note> 
+               <hi>Ioh.</hi> 17. in that admi<g ref="char:EOLhyphen"/>rable comfortable prayer which he there makes for his Church, ſee how often he layes in requeſts for <hi>this union,</hi> and preſents this as his great ſuit to his Father, that his people may be one;<note place="margin">v. 11.</note> ver. 11. <hi>Holy Father, keep through thy own Name thoſe whom thou haſt given me, that they may be one as we are:</hi>
+               <note place="margin">20. 21. 22. 23.</note> and again, <hi>ver.</hi> 20, 21.22, 23. <hi>Neither pray I for thoſe alone, but for them alſo which ſhall beleeve on me through their word; that they all may be one, as thou Father art in me, and I in thee, that they may alſo be in us, that the world may beleeve that thou haſt ſent me. And the glory which thou gaveſt me, I have given them, that they may be one as we are one, I in thee, and thou in me, that they may be made perfect in one, and that the world may know that thou haſt ſent me, and haſt loved them as thou haſt loved me.</hi> (Where the word of compariſon, <hi>ver.</hi> 22. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhews, <hi>qualitatem,</hi> not <hi>aequalitatem unionis.</hi> Now, conſider, if this union be ſuch a thing, as not only the Spirit of God in the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul,</hi> but even the Son of God himſelf in the dayes of his fleſh, made ſuch earneſt interceſſion for; is it not worthy our endeavouring after? And that you may ſee that this holy ſweet cloſe u<g ref="char:EOLhyphen"/>nion, is not a meer <hi>Idea Platonica,</hi> an imaginary per<g ref="char:EOLhyphen"/>fection and bleſſedneſſe, that never was, nor never will be attained in this life; look but upon the firſt and beſt times of the Church, and there behold the lovely face of this holy union:<note place="margin">Acts 1.14.</note> 
+               <hi>Acts</hi> 1.14. it is ſaid, <hi>they continued,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with one accord in prayer and ſupplication.</hi>
+               <note place="margin">Acts 2.46.</note> And again, <hi>Acts</hi> 2.46. <hi>They continued,</hi>
+               <pb n="9" facs="tcp:113501:7"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with one accord in the Temple, and breaking bread from houſe to houſe, did eat their meat with glad<g ref="char:EOLhyphen"/>neſſe and ſingleneſſe of heart.</hi> And again, <hi>Acts</hi> 5.12. <hi>They were all</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with one accord in Solomons porch.</hi> And again, <hi>Acts</hi> 4.32.<note place="margin">Arguuntur exemplo hoc no<g ref="char:EOLhyphen"/>ſtri ſeculi mo<g ref="char:EOLhyphen"/>res, quos ab u<g ref="char:EOLhyphen"/>nanimitatis &amp; concordiae ſtu<g ref="char:EOLhyphen"/>do alieniſſimos eſse conſtat. <hi>This reproves the manners of our times (ſaith Reve<g ref="char:EOLhyphen"/>rend</hi> Gualter <hi>long-ago,) which have wholly caſt off all care of concord and union.</hi> Audimus inter Evangelicae Doctrinae &amp; fidei profeſſores factioſa Zwinglianor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, &amp; Lu<g ref="char:EOLhyphen"/>theranerum Nomina: Et aemulationum ſtudio &amp; favore couſo progreſſum eſt, ut cum alter<g ref="char:EOLhyphen"/>utri parti periculum imminet, reliqui fratres periclitantes deſerant, &amp; omni commiſerationis affectu poſito taciti in ſinum goudeant, imò gaudium ſuum non rarò acerbis ſcommatis te<g ref="char:EOLhyphen"/>ſtantur; adao<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Chriſti membris in cruce pendentibus acetum felle mixtum propinent. <g ref="char:V">Ʋ</g>t interim de contentionibus, convitijs, opprobrijs &amp; obtrectationibus mutuis unbil dicam. <hi>Change but the name of Lutheran and Zwinglian, and ſee if this be not too true of us?</hi>
+               </note> 
+               <hi>The multitude of them that beleeved, were of one heart and of one ſoul:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: They had but one heart and one ſoul a<g ref="char:EOLhyphen"/>mong them. But alas, my brethren, how may the Church of Chriſt take up the ſad complaint of <hi>Job; O that I were as in times paſt, as in the dayes when God preſerved me, as I was in the dayes of my youth, when the ſecret of God was upon my Tabernacle.</hi> Now in ſtead of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we have, <hi>quot capita tot ſenſus,</hi> But however it be with us, you ſee there wants neither <hi>precept,</hi> nor prayer, nor preſident in Scripture to com<g ref="char:EOLhyphen"/>mend to us the endeavour after a cloſe, ſweet, holy u<g ref="char:EOLhyphen"/>nion, as our duty.</p>
+            <p>If you deſire to know what are the <hi>particulars</hi> wherein <hi>thoſe that would walke worthy of the Goſptl,</hi>
+               <note place="margin">Explication.</note> 
+               <hi>are to endeavour an union among themſelves;</hi> Be pleaſed to review again the Scriptures brought for the proof of the point, and they will direct you in them.</p>
+            <p>
+               <note place="margin">1 Unity of heart to be endeavoured.</note>I finde ſome making mention of a threefold union or unity: <hi>Vnitas cordis, unitas oris, unitas operis;</hi> an unity in heart, in word, in worke.</p>
+            <p>Firſt, in heart; this you have,<note place="margin">Acts 4.32.</note> 
+               <hi>Acts</hi> 4.22. <hi>The mul<g ref="char:EOLhyphen"/>titude
+<pb n="10" facs="tcp:113501:8"/>titude of beleevers were of one heart and of one ſoul; Anima una quoad intellectum per unitatem fidei: Cor unum quoad affectum per unitatem charitatis:</hi> They were of one ſoul in regard of their judgement by unity in the faith: they were of one heart in regard of their affections by union of love. <hi>Cordis &amp; animae unius nominibus intel<g ref="char:EOLhyphen"/>ligitur ſumma tum in doctrina, tum in volunt atibus con<g ref="char:EOLhyphen"/>ſenſio:</hi> By one heart and one ſoul, is meant an exact agreement both in doctrine and in will, ſaith <hi>Beza;</hi> and ſubjoins, that in his ancient Copy were added theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: which <hi>Beda</hi> al<g ref="char:EOLhyphen"/>ſo found in ſeverall Greek copies, and tranſlates, <hi>non erat in illus ſeparatio ulla,</hi> there was no ſeparation a<g ref="char:EOLhyphen"/>mong them. <hi>Cypr. li. 3. ad Quirinum; Nec fuit inter illos diſcrimen ullum,</hi> there was no difference among them. <hi>Beza, Nec erat inter illos controverſia ulla,</hi> there was no controverſie among them. Happy men, and happy times, in this union of hearts that was among them.</p>
+            <p>
+               <note place="margin">And that two-fold.</note> This union of hearts is two-fold, or implies two things; firſt, an unity of minde and judgement in mar<g ref="char:EOLhyphen"/>ters of faith; ſecondly, an union of affection in love: both which it is the duty of thoſe that would walke worthy of the Goſpel to endeavour after.</p>
+            <p>Firſt,<note place="margin">1. In opinion &amp; judgement.</note> it is the duty of thoſe that would walke wor<g ref="char:EOLhyphen"/>thy of the Goſpel, to endeavour after unity of judge<g ref="char:EOLhyphen"/>ment: Some obſerve that from my very text, <hi>in one ſpirit with one minde;</hi>
+               <note place="margin">Velaſquez.</note> 
+               <hi>Philippenſes non ſolum de ani<g ref="char:EOLhyphen"/>marum &amp; voluntatum conjunctionis unitate, ſed &amp; de doctrinae etiam &amp; ſententiarum conſenſione admonet, mu<g ref="char:EOLhyphen"/>tuam ab illis charitatem, &amp; eandem mentem efflagitans. Paul</hi> adm oniſheth the <hi>Philippians,</hi> not only of union
+<pb n="11" facs="tcp:113501:8"/>of mindes and wills, but of confent of doctrines and opinions, requiring mutuall love, and the ſame minde. But this is very clearly and expreſly requi<g ref="char:EOLhyphen"/>red, 1 <hi>Cor.</hi> 1.10. <hi>I beſeech you, brethren,</hi>
+               <note place="margin">1 Cor. 1 10.</note> 
+               <hi>by the Name of our Lord Joſus Christ, that ye all ſpeak the ſame thing, that there be no diviſions among you, but that ye be perfe<g ref="char:EOLhyphen"/>ctly joyned together in the ſame minde, and in the ſame judgement,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifieth a mans judgement, ſentence, opinion in a matter, and is ſo uſed in this 1 <hi>Cor.</hi> 7.25. where ſpeaking of a caſe concerning Virgins, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I give my judgement,</hi> or my opinion, ſaith the Apoſtle: And <hi>ver.</hi> 40. ſpeaking of the widow, <hi>ſhe is happier if ſhe ſo continue,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>after my judgement,</hi> or mine opinion; ſo that when the Apoſtle requires that <hi>they be perfectly joined together,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Conſenſionem requirit in eodem in religionis capitibus ſenſu,</hi> ſaith <hi>Beza</hi> upon the place; he requires an agree<g ref="char:EOLhyphen"/>ment in the ſame ſenſe, opinion, judgement, in the heads of Religion. This alſo is intended in all thoſe Scriptures, where the Apoſtle writes to the Saints, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to minde the ſame thing, or to be of one minde.</hi> So <hi>Phil.</hi> 2.2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>So</hi> Hen. Ste<g ref="char:EOLhyphen"/>phanus <hi>in</hi> The<g ref="char:EOLhyphen"/>ſan. <hi>tranſlates it.</hi> ijſdem ſententijs uniti.</note> which <hi>Beza</hi> tranſlates, <hi>unanimes, ſententijs uni,</hi> agreeing and being one in your opinions: And ſaith in his Annotations, <hi>ab animorum (id eſt voluntatum) conjunctione tranſit ab doctrinae conſenſum, ut plena juſtáque ſit concordia.</hi> The Apoſtle paſſeth from agreement in wills to a<g ref="char:EOLhyphen"/>greement and conſent in doctrine, that the agreement may be full and perfect. So 2 <hi>Cor.</hi> 13.11. So 1 <hi>Pet.</hi> 3.8. All theſe call upon Chriſtians for <hi>oneneſse</hi> and <hi>ſame<g ref="char:EOLhyphen"/>nes</hi> of <hi>minde, judgement</hi> and <hi>opinion</hi> in the things of God
+<pb n="12" facs="tcp:113501:9"/>in the doctrines of faith: and do utterly condemne as ſinfull, that <hi>univerſall</hi> unlimited liberty of judge<g ref="char:EOLhyphen"/>ment and opinion, which in theſe times is ſo much contended for; for if it be lawfull for every man to entertain and hold what opinion he pleaſeth, how dif<g ref="char:EOLhyphen"/>fering ſoever from the opinion and judgement of the reſt of the Church and people of God, yet this is his opinion, and his judgement is perſwaded of it, and he muſt follow his own judgement, and this liberty of judgement be (as ſome ſay) Liberty of Conſci<g ref="char:EOLhyphen"/>ence, part of the liberty purchaſed by Jeſus, and to reſtrain it, or ſet bounds to it, is in their language Per<g ref="char:EOLhyphen"/>ſecution, Tyranny, <hi>&amp;c.</hi> If this were true, ſure <hi>Paul</hi> did very ill, to charge the <hi>Corinthians</hi> with ſo much authority, <hi>to be of the ſame minde, and of the ſame judge<g ref="char:EOLhyphen"/>ment.</hi> Might not ſome among the <hi>Corinthians</hi> have ſaid to <hi>Paul,</hi> This is hard uſage, this is to <hi>rack a low man to the ſame length with a taller, and to cut a tall man to the ſame ſtature of one that is low?</hi> What, the <hi>ſame judgement?</hi> and the <hi>ſame minde?</hi> will not <hi>Paul</hi> allow <hi>difference of lights and ſights?</hi> Might not ſome <hi>one</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Corinthians</hi> have ſaid, What if I am of opi<g ref="char:EOLhyphen"/>nion that there is no reſurrection, what hath <hi>Paul</hi> or any man to do with that? it is my conſcience, and it is my liberty, and what hath any man to do with my conſcience more then I with his? might not <hi>Hy<g ref="char:EOLhyphen"/>maeneus</hi> have ſaid; What if it be my opinion, <hi>that the reſurrection is paſt already,</hi> what hath <hi>Paul</hi> to do with that? Yes, ſaith <hi>Paul,</hi> if ye perſiſt obſtinate I will excommunicate you, <hi>I will deliver you up to Sa<g ref="char:EOLhyphen"/>tan, that you may learne not to blaſpheme:</hi> Certainly this ſhelter, this Aſylum of errour, falſely called
+<pb n="13" facs="tcp:113501:9"/>
+               <hi>Liberty of Conſcience,</hi>
+               <note place="margin">I finde no<g ref="char:EOLhyphen"/>thing in An<g ref="char:EOLhyphen"/>tiquity neerer it, then that opinion of <hi>Rhetorius,</hi> of whom <hi>Philaſtrius</hi> ſaith, <hi>quod omnes laudaverit hae<g ref="char:EOLhyphen"/>reſes,</hi> &amp;c. That he commended all hereſies, and ſaid they did all mean well, and that none of them erred, but did all walke well, and did not beleeve amiſſe: Of which opi<g ref="char:EOLhyphen"/>nion of his <hi>Auguſtine</hi> ſaith, it is <hi>nimium mirabilis vanitatis;</hi> and ſo full of abſurdities, <hi>ut dogma incredibile videatur,</hi> that it ſeems incredi le; and <hi>Cramer</hi> the <hi>Lutheran,</hi> calls the Authour of it, <hi>Omnium Haereticorum haereticiſſimum;</hi> and the opinion, <hi>omnium men<g ref="char:EOLhyphen"/>daciorum mendaciſſimum.</hi>
+               </note> was not thought of in former times.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But ſome may ſay; What? are we thus ſtrictly tied, that one Chriſtian may not differ from another in judgement or opinion? is there no latitude? muſt we be all of the ſame minde in every thing?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, You ſee it is that which the Spirit of God in ſo many places of Scripture propounds to us to en<g ref="char:EOLhyphen"/>deavour after; you ſee it is that which the Spirit of God in <hi>Paul</hi> prayed for, which the Lord Jeſus Chriſt himſelf prayed for, and therefore certainly it is that which we are to pray for and preſſe after. And for any man to be of another minde then the reſt of his bre<g ref="char:EOLhyphen"/>thren the people of God are, certainly it is to be looked upon as an affliction, as matter of humiliation, and not as matter of rejoycing. <hi>Optandum quidem nobis omnibus, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, optandum, ut in minimis quibu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, conſen<g ref="char:EOLhyphen"/>ſus firmus teneatur a tot â Eccleſiâ,</hi> ſaith <hi>Aretius;</hi> It is that we ſhould all deſire, and again and again we ſhould deſire it, that there might be a full agreement even in every the leaſt matters in the whole Church. <hi>Sed cum eventus votis non reſpondeat</hi> (ſaith he) <hi>fortè peccatis aliud promerentibus &amp; infigni ingratitudine,</hi>
+               <note place="margin">
+                  <hi>Aretius</hi> de Con<g ref="char:EOLhyphen"/>cord. Eccleſiae.</note> 
+               <hi>diſ<g ref="char:EOLhyphen"/>ſidentia judicia a multis proferenda eſse;</hi> But ſeeing the iſſue doth not anſwer our deſire, it may be, our ſins and our notorious ingratitude deſerving the contrary, ma<g ref="char:EOLhyphen"/>ny
+<pb n="14" facs="tcp:113501:10"/>will be of differing judgements. And indeed it can ſcarce be but through the imperfection of our know<g ref="char:EOLhyphen"/>ledge and corruption of our wills, there ſhould be ſome differences of opinion and judgement among us; but then it is that we ſhould (not glory in, but) ſigh under, as part of our imperfection cleaving to us while we are here upon earth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But then the queſtion will be, Seeing there will be difference of judgement and opinion while we are upon earth, then how or how far is this difference of judgement to be permitted? How, or wherein may Chriſtians differ from one another in judgement, and yet ought to be tolerated and borne with?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is, my brethren, a very grave and difficult que<g ref="char:EOLhyphen"/>ſtion, and to me, conſidering how many places there are wherein the <hi>holy Ghoſt</hi> calls upon us to endeavour to be of <hi>one minde,</hi> of the <hi>ſame minde,</hi> and of the <hi>ſame judgement;</hi> it is eaſier to tell you, wherein we may <hi>not</hi> differ in <hi>judgement,</hi> and wherein differences in judge<g ref="char:EOLhyphen"/>ment may <hi>not</hi> be tolerated, then to tell you wherein they may.</p>
+            <p>Firſt therefore I ſay, that as an <hi>abſolute unity</hi> in judgement, that we ſhould <hi>all</hi> be of the <hi>ſame minde</hi> in <hi>all</hi> things, is <hi>ſcarce</hi> to be <hi>attained</hi> in this life, though it be to be <hi>endeavoured;</hi> ſo an <hi>univerſall</hi> and <hi>abſo<g ref="char:EOLhyphen"/>lute liberty</hi> of judgement, for every man to differ when he pleaſeth, and in what he pleaſeth, to be of what opinion and faith he will, is <hi>not</hi> to be <hi>en<g ref="char:EOLhyphen"/>deavoured,</hi> if it might be <hi>attained,</hi> nor is it to be <hi>to<g ref="char:EOLhyphen"/>lerated</hi> or <hi>permitted.</hi> I know no <hi>warrant,</hi> no <hi>pre<g ref="char:EOLhyphen"/>tence</hi> of warrant for it in all the book of God: Scri<g ref="char:EOLhyphen"/>pture no where ſaith, Let every man be of what
+<pb n="15" facs="tcp:113501:10"/>opinion and of what faith he pleaſeth,<note place="margin">
+                  <hi>Neque etiam quicquam ar<g ref="char:EOLhyphen"/>gumentorum occurrere poſſe putandum eſt, quod vel leviter in speciem afferri poſset, niſi quis fortaſſe illud Pauli &amp; Habacuc buc torqueri velit, Iuſtus ex fide ſua vivet,</hi> &amp;c. <hi>At vero ſi uterque dix<g ref="char:EOLhyphen"/>iſſet, Quiſque fide ſua vivet,</hi> &amp;c. But (ſaith he) if both of them had ſaid, <hi>Every man ſhall live by his faith,</hi> poſſibly it might have afforded ſome favour to ſuch an opinion, but they do not ſay, <hi>every man,</hi> but the juſt ſhall live by <hi>his faith;</hi> Now the faith of the juſt, <hi>juſta fides eſt non indiſcreta, nonconfuſa, non ex quovis trivio petita, aut è cujusvis cerebro nata aut ſata phantaſia.</hi> The ſaith of the juſt is a juſt faith, not an indiſtinct, not a confuſed faith, not a faith raked up in every high-way, not a fancie bred and borne in the brain of every private man. Cramer. <hi>Arhor Haereticae conſang.</hi>
+               </note> let every man be left to his own judgement.</p>
+            <p>
+               <hi>Si quis ex verbis Pauli,</hi> Rom. 14.5. <hi>patrocinium pe<g ref="char:EOLhyphen"/>tat,</hi> &amp;c. if any man thinke theſe words of <hi>Paul, Rom.</hi> 14.5. do patronize this opinion, it is but as they are miſ-tranſlated in the vulgar Latine, <hi>Vnuſquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> abun<g ref="char:EOLhyphen"/>det ſenſu ſuo:</hi> but there is no ſuch thing in the text, and therefore <hi>Beza</hi> rejects it, and ſaith plainly,<note place="margin">
+                  <hi>Beza</hi> ad loc.</note> 
+               <hi>haec ſententia Chriſtiana eſse non potest,</hi> as being in his ap<g ref="char:EOLhyphen"/>prehenſion contrary to that expreſſe Scripture, <hi>Deut.</hi> 12.8. <hi>Ye ſhall not do after all the things that you do here this day, every man that which is right in his own eyes.</hi> And certainly this abſolute liberty (or rather licen<g ref="char:EOLhyphen"/>tiouſneſſe) in opinion, which is ſo eagerly contended for by ſome, is not to be indulged unto men.<note place="margin">
+                  <hi>Gerhard.</hi> in loc. com loc. de Magiſtratu.</note> 
+               <hi>Libertas illa quidvis credendi, nihil aliud eſt quam libertas erran<g ref="char:EOLhyphen"/>di, &amp; quidem errandi in re animae ſalutem concernente, in qua proinde error eſt longè nocentiſsimus &amp; periculo<g ref="char:EOLhyphen"/>ſiſsimus.</hi> 
+               <q>That ſame of liberty of beleeving any thing, is nothing elſe but a liberty of errring, and of erring in matters concerning the ſalvation of the the ſoul, and an errour there is moſt hurtfull and dangerous; and therefore (ſaith he) as it cannot be ſafe for ſheep to be left to wander alone, thorow mountains and deſerts, and graze where they pleaſe,
+<pb n="16" facs="tcp:113501:11"/>leſt they fall in upon ſome unwholſome food, and poiſon themſelves, or fall into the pawes of the Woolf, and become a prey. And as it cannot be ſafe to leave a ſhip to it ſelf, to be driven along be<g ref="char:EOLhyphen"/>fore the winde, without any guidance or ſteerage: So neither can it be ſafe to leave a liberty to men to be of what faith or Religion they liſt, or to hold what opinion they think good, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Particularly, Liberty of opinion or judgement is not to be granted or indulged.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, in ſuch things as are injurious to God, and tending to the blaſpheming of his name and glory; as <hi>Judaiſme, Arianiſme, Socinianiſme:</hi> in the Do<g ref="char:EOLhyphen"/>ctrine of the <hi>Trinity,</hi> and of <hi>the Lord Ieſus, Non licet luxuriari:</hi> a wanton liberty of opining and beleeving what men pleaſe, is not to be borne. If <hi>Hymeneus</hi> and <hi>Alexander</hi> once come to blaſpheme, away with them, caſt them out, deliver them to Satan, 1 <hi>Tim.</hi> 1.20.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Nor ſecondly, is there a liberty in ſuch things as are pernicious and deſtructive to the ſouls of men; Such as are the main Doctrines of <hi>Popery, Arminia<g ref="char:EOLhyphen"/>niſme, Libertiniſme,</hi> Gal. 1.8. <hi>Though we, or an Angel from Heaven, preach any other Goſpel unto you, then that which we have preached unto you, Let him be accur<g ref="char:EOLhyphen"/>ſed,</hi> verſ. 9. <hi>As I ſaid before, ſo ſay I now again, if any,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if any,</hi> (whether man or Angel) <hi>preach any other Goſpel to you then what you have received, Let him be A<g ref="char:EOLhyphen"/>nathema,</hi> Revel. 2.20. <hi>Notwithstanding I have a few things againſt thee, becauſe thou ſufferest that woman</hi> Jezebel, <hi>who calls her ſelf a Propheteſſe, to teach and ſeduce my ſervants to commit fornication, and to eat things ſacrificed unto Idols.</hi> So then here TOLERATION is abominable.</p>
+            <pb n="17" facs="tcp:113501:11"/>
+            <p>Nor thirdly, is there liberty left in thoſe things, wherein our judgements and opinions in the diſcove<g ref="char:EOLhyphen"/>ry and practice of them will give juſt offence unto o<g ref="char:EOLhyphen"/>thers, 1 <hi>Cor.</hi> 10.32. <hi>Give none offence, neither to the Jews, nor to the Gentiles, nor to the Church of God.</hi>
+            </p>
+            <p>Nor fourthly, in ſuch things, as wherein the diffe<g ref="char:EOLhyphen"/>rence of judgement and opinion will neceſſarily and unavoydably, <hi>ex natura rei,</hi> produce a rent and ſchiſme in the Church of Chriſt, 1 <hi>Cor.</hi> 1.10. <hi>Now I beſeech you, brethren, by the name of our Lord Ieſus Chriſt, that ye all ſpeak the ſame thing, and that there be no divi<g ref="char:EOLhyphen"/>ſions among you: but that ye be perfectly joyned together in the ſame minde, and in the ſame judgement, Rom.</hi> 16.17. <hi>I beſeech you, brethren, mark them that cauſe diviſi<g ref="char:EOLhyphen"/>ons and offences among you, contrary to the Do<g ref="char:EOLhyphen"/>ctrine that you have received, and—what? Tole<g ref="char:EOLhyphen"/>rate</hi> them? No, <hi>avoid them, Gal.</hi> 5.12. <hi>I would they were even cut off that trouble you.</hi> Nothing can be cleerer then theſe Scriptures are againſt the <hi>Toleration</hi> of all Doctrines, and particularly of thoſe that <hi>trou<g ref="char:EOLhyphen"/>ble, rend, divide</hi> the Church.</p>
+            <p>A grave and judicious Divine delivers his judge<g ref="char:EOLhyphen"/>ment in this particular thus, 1. <hi>Qui palam</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſunt, non ſunt ferendi.</hi> 2. <hi>Qui</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>inducunt.</hi> 3. <hi>Quima<g ref="char:EOLhyphen"/>giſtratum tollunt.</hi> 4. <hi>Qui bella non neceſſaria movent.</hi>
+               <note place="margin">Aretits <hi>Probl.</hi>
+               </note> 5. <hi>Qui aperta flagitia tuentur.</hi> 6. <hi>Qui articulos ad ſa<g ref="char:EOLhyphen"/>lutem neceſsarios tollunt, negant, aut in dubium vocant.</hi> 
+               <q>1. They that are open <hi>Atheists</hi> are not to be borne. 2. Nor they that would bring in confuſion. 3.<note place="margin">Cavendum eſt<g ref="char:EOLhyphen"/>ſedulo ne haere ticsrum &amp; fa<g ref="char:EOLhyphen"/>naticorum ſub ſanctimoniae ſpecie, pijs ob<g ref="char:EOLhyphen"/>repentium ſi mulationi ti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulum inf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is facile per<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us quo cr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>i v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uti<g ref="char:EOLhyphen"/>oribus <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lent &amp; abis<g ref="char:EOLhyphen"/>tentes noſtra tolera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiâ, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gè late<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſpar<g ref="char:EOLhyphen"/>gant. <hi>Cro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ius in Eph.</hi>
+                  </note> Nor they that would aboliſh magiſtracy. 4. Nor they that move unneceſſary warre. 5. Nor they that maintain open ſinnes. 6. Nor they that take away,
+<pb n="18" facs="tcp:113501:12"/>deny, or call in queſtion any articles of faith neceſſary to ſalvation.</q> I doubt if it were well examined, many of thoſe opinions that infeſt our times, would fall under ſome part or other of this ſentence.</p>
+            <p>But (to ſpeak a little to the Poſitive) if there be a latitude and a <hi>liberty</hi> of judgement left, it is <hi>firſt</hi> in ſuch things as are not clearly and poſitively laid down in Scripture, and therefore are not of the <hi>fundamentalls,</hi> and <hi>eſsentialls</hi> of <hi>faith</hi> and <hi>worſhip,</hi> for there is for theſe clear and undoubted light in Scripture.</p>
+            <p>Secondly, It is in things that are of <hi>private</hi> and <hi>ſingle practice,</hi> and not of <hi>open converſe,</hi> or Church-fellowſhip and communion. Thoſe caſes of eating or not eating, diſcuſſed by the Apoſtle, in his Epi<g ref="char:EOLhyphen"/>ſtles to the <hi>Romans</hi> and to the <hi>Corinthians,</hi> in which the Apottle ſhews, there might be a <hi>liberty</hi> or <hi>indul<g ref="char:EOLhyphen"/>gence,</hi> and Chriſtians ought to bear one with another, in <hi>holding or practiſing thus or otherwiſe;</hi> They were points of Perſonall and Domeſtick practice. <hi>Duas ſpecies proponit Apoſtolus, in quibus veſci liceat Idola<g ref="char:EOLhyphen"/>thytis,</hi> ſaith <hi>Beza.</hi>
+               <note place="margin">
+                  <hi>Beza</hi> in 1 Cor. 10 27.</note> 
+               <q>There were two caſes in which it was lawfull to eat things offered to Idols; one, if a man bought them in the ſhambles, and eat them <hi>privately</hi> in his own houſe, <bibl>
+                     <hi>ver.</hi> 25.</bibl>
+               </q> 
+               <q>The other is in caſe he bid to a private feaſt by a heathen, <bibl>
+                     <hi>ver.</hi> 27.</bibl>
+               </q> But to doe this openly and profeſſedly, in the Idols Temple was a deteſtable thing. And yet even in theſe things this liberty is not to be aſſumed, at leaſt not to be practiſed without much tenderneſſe and cir<g ref="char:EOLhyphen"/>cumſpection.</p>
+            <p>Firſt, Care muſt be had of keeping thoſe opinions wherein we differ from others, <hi>private</hi> to our ſelves;
+<pb n="19" facs="tcp:113501:12"/>not troubling and perplexing the conſciences of others with them. This is the injunction, <hi>Rom.</hi> 14.22. <hi>Haſt thou faith? have it to thy ſelf before God.</hi> The <hi>faith</hi> there ſpoken of, is a particular perſwaſion, touching the free uſe of all Creatures, and the liberty of all dayes. And this faith, this perſwaſion was according to the truth (as is clear by the Apoſtles argumentation in that chapter) yet faith the Apoſtle, <hi>haſt thou faith? have it to thy ſelf before God:</hi> do not ſay, <hi>Ego fidem ha<g ref="char:EOLhyphen"/>beo libertatis, ergo debeo eam profiteri, &amp; factis oftendere,</hi>
+               <note place="margin">
+                  <hi>Parcus</hi> ad loc.</note> 
+               <hi>quicquid fit de alijs:</hi> 
+               <q>Do not ſay, I am fully perſwa<g ref="char:EOLhyphen"/>ded of my liberty, and therefore I ought to profeſſe it, and hold it out in my practice, whatever become of others; It is the truth of God, and I muſt hold it forth.</q> No, ſaith the Apoſtle, have it to thy ſelf. And if a man who hath a private opinion, <hi>in re mediâ</hi> muſt keep it to himſelf, though it be a truth, much more muſt they whoſe opinions are falſe &amp; erroneous. Cer<g ref="char:EOLhyphen"/>tainly there is ſcarce any difference of judgement ſo ſmall, and in it ſelf inconſiderable, but the divulging and propagating of it may prove very dangerous and pernicious, and in the event intolerable. Suppoſe a man ſhould be of this <hi>opinion,</hi> that it is <hi>unlawfull to eat things ſtrangled, or blood.</hi> If ſuch a man keep his opi<g ref="char:EOLhyphen"/>nion to himſelf, and make it a rule only to his own practice: let him enjoy it, till he can be otherwiſe in<g ref="char:EOLhyphen"/>formed, and perſwaded in his conſcience. But if he will now goe publiſh this opinion, and intangle the conſciences of others, and ſeek to draw diſciples af<g ref="char:EOLhyphen"/>ter him, and make a party, and cauſe diviſion and diſſenſion amongſt the people of God; this is not to be tolerated; <hi>Perſonae privatae,</hi> (ſaith a learned Divine)
+<pb n="20" facs="tcp:113501:13"/>
+               <hi>diverſum ſentientes, ſi quietè vivant,</hi> &amp;c. <q>Private per<g ref="char:EOLhyphen"/>ſons of a differing judgement,<note place="margin">Perſonae pri<g ref="char:EOLhyphen"/>vatae diverſum ſentientes, ſi quiete vivant, Sacris publicis utantur, nec occultis machi nationtbus po<g ref="char:EOLhyphen"/>litiae, aut Ec<g ref="char:EOLhyphen"/>cleſiae pacem turbare ani<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> veriantur, spe converſio<g ref="char:EOLhyphen"/>nis, &amp; pacis publicae cauſâ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſunt Quod ſi vero idem er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ores ſuos publicè ſparge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atios ad ſe allicere, ſimpliciores <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>allere, &amp; pa<g ref="char:EOLhyphen"/>cem publican turbare incipi<g ref="char:EOLhyphen"/>ant, coercendi ſunt. <hi>Geth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rd</hi> loc. com. loc. de Magiſtratu.</note> if they live quietly, frequent the publique Aſſemblies of worſhip, and are not diſcerned to diſturb the peace either of State or Church, by any ſecret underminings, are to be tolerated, in hope of their converſion, and for publike peace ſake. But if theſe men ſhall begin to ſpread their errours in publike, to inveigle and draw others to them, to beguile the ſimple, and ſo to trouble the publike peace, they are to be re<g ref="char:EOLhyphen"/>ſtrained, ſaith he, ſpeaking of the duty of the Magi<g ref="char:EOLhyphen"/>ſtrate in this caſe.</q> So then, that is the firſt caution: If men have private opinions, opinions of their own, that they cannot be of the <hi>ſame judgement</hi> with the reſt of their brethren; Let them keep them private: Let them be <hi>domeſtica judicia,</hi> as <hi>Tertullian</hi> calls them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as another calls them, let them keep home, and not be ſeen abroad, <hi>Haſt thou faith? have it to thy ſelf before God.</hi>
+            </p>
+            <p>A ſecond condition to be obſerved in caſe of differ<g ref="char:EOLhyphen"/>ence in judgement and opinion, is, that though we cannot be of the ſame minde and judgement with o<g ref="char:EOLhyphen"/>thers, yet we do not judge or deſpiſe thoſe that differ in judgement from us. <hi>Rom.</hi> 14.3. There was differ<g ref="char:EOLhyphen"/>ence of judgement among the Saints in <hi>Rome,</hi> ſome thought it was as lawfull to eat all kindes of fleſh, as it was to eat herbs, and were ready to thinke them a company of weak ſimple people, that would make ſcruple of it; others thought it abſolutely unlawfull to eat fleſh, and thought none would do it but profane men, men of no conſcience, and therefore were reſol<g ref="char:EOLhyphen"/>ved they would eat only herbs: Now, this is that the
+<pb n="21" facs="tcp:113501:13"/>Apoſtle reproves, forbibs; <hi>Let not him that eateth de<g ref="char:EOLhyphen"/>ſpiſe him that eateth not, and let not him that eateth not judge him that eateth:</hi> whatever our differences in judgement be, we muſt take heed of deſpiſing and condemning one another.</p>
+            <p>A third condition is, that even then we cannot be of <hi>one minde,</hi> we yet labour to be of <hi>one heart;</hi> though we do <hi>diſſentire,</hi> yet we muſt not <hi>diſcordare;</hi> though we cannot attain <hi>unity of judgement,</hi> yet we muſt main<g ref="char:EOLhyphen"/>tain <hi>unity of affection,</hi> which is the <hi>ſecond part</hi> of that <hi>unitas cordis,</hi> that <hi>union of heart</hi> which the Goſpel re<g ref="char:EOLhyphen"/>quires. This is it which is required of us, <hi>Rom.</hi> 12.10. <hi>Be kindly affectioned one towards another in love.</hi> So 1 <hi>Pet.</hi> 3.8. having ſaid, <hi>Be ye all of one minde,</hi> he adds, <hi>love as brethren; q. d.</hi> if it ſhould ſo happen, that you cannot in all things be of one minde, yet notwithſtand<g ref="char:EOLhyphen"/>ing love as brethren, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Apoſtle, <hi>Epheſ.</hi> 4.15. which <hi>Beza</hi> in his firſt edition tranſlates (as the vulgar doth) <hi>veritatem ſectantes in charitate, following the truth in love:</hi> which I conceive both the notation of the word, and the ſcope of the place, if you conſider the verſe going before, will bear: And ſo the text imports, that <hi>love</hi> muſt ſet bounds to all our inquiries after <hi>truth,</hi> and we may not, under pretence of ſeeking truth, tranſgreſſe the laws of and rules of <hi>love:</hi> If we cannot <hi>meet</hi> in every <hi>point of truth,</hi> yet let us <hi>embrace</hi> in <hi>love:</hi> If there be <hi>difference</hi> in <hi>judge<g ref="char:EOLhyphen"/>ment,</hi> yet let there not be <hi>diſtance</hi> in <hi>affection:</hi>
+               <note place="margin">Aretius.</note> 
+               <hi>Paul</hi> and <hi>Peter</hi> may <hi>differ, Hierome</hi> and <hi>Auguſtine, Moſ<g ref="char:EOLhyphen"/>copolus</hi> and <hi>Philelphus,</hi> and yet be friends ſtill, <hi>love as brethren.</hi>
+            </p>
+            <p>And ſurely had we walked according to theſe
+<pb n="22" facs="tcp:113501:14"/>rules, our <hi>diviſions</hi> in <hi>England</hi> had not been ſo <hi>ſad,</hi> ſo <hi>fatall</hi> as they are this day. Had <hi>all</hi> that profeſſe the Goſpell in <hi>England</hi> made conſcience to be of the <hi>ſame minde,</hi> and the <hi>ſame judgement</hi> with their <hi>brethren,</hi> and the reſt of the <hi>Churches</hi> of <hi>Chriſt,</hi> as far as poſſibly; and where they cannot, where there is a <hi>neceſsity</hi> of differing, had they made conſcience to keep their dif<g ref="char:EOLhyphen"/>ferences from appearing in publike, <hi>to have their pri<g ref="char:EOLhyphen"/>vate opinions and faith to themſelves,</hi> and not <hi>intangle</hi> the weak with their doubtfull diſputations; <hi>forbear<g ref="char:EOLhyphen"/>ing to judge or deſpiſe</hi> thoſe that are not of their opi<g ref="char:EOLhyphen"/>nion, <hi>loving them still as brethren,</hi> not cenſuring them as <hi>profane, antichriſtian, fighters againſt God,</hi> men that will fully ſhut their eyes againſt the light; had theſe things (I ſay) been attended to on all hands, our breaches had never been ſo great as now they are, nor ſhould the lovers of truth and peace have had ſo much cauſe to lament them. But thus much of the firſt kinde of union that is required in thoſe that would walke worthy of the Goſpel, <hi>unitas cordis.</hi>
+            </p>
+            <p>The ſecond kinde of <hi>union</hi> or <hi>unity</hi> required, is, <hi>unitas oris:</hi> as the people of God ſhould have but <hi>one ſoul,</hi> ſo they ſhould have but <hi>one lippe;</hi> as <hi>one faith,</hi> ſo <hi>one confeſsion of faith, one expreſsion</hi> of them<g ref="char:EOLhyphen"/>ſelves in matters of faith, Therefore the <hi>holy Ghoſt</hi> calls upon us not only to <hi>thinke,</hi> but to <hi>ſpeak</hi> the ſame things, 1 <hi>Cor.</hi> 1.10. <hi>Now I beſeech you, brethren, by the Name of our Lord Jeſus Chriſt, that you all ſpeak the ſame thing:</hi> Not only <hi>thinke,</hi> but <hi>ſpeak.</hi> So <hi>Rom.</hi> 15.6. <hi>That ye may with one minde and one mouth</hi> glorifie God. The people of God ſhould not only have <hi>one
+<pb n="23" facs="tcp:113501:14"/>minde,</hi> but <hi>one mouth.</hi> It was a happy and peaceable age, when the <hi>whole earth</hi> was but of <hi>one lip,</hi> one Lan<g ref="char:EOLhyphen"/>guage; the <hi>confuſion</hi> of tongues at <hi>Babel</hi> brought in a world of other confuſions: It is a happy thing when all the people of God can content themſelves with the <hi>ſame language and expreſsions</hi> in the things of God. That ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>affecta<g ref="char:EOLhyphen"/>tion</hi> of <hi>new</hi> and <hi>ſtrange language,</hi> hath ever been found prejudiciall to the <hi>Church</hi> of God:<note place="margin">
+                  <hi>Aug.</hi> de Civit. Dei. lib <hi>10</hi> cap <hi>23.</hi>
+               </note> 
+               <hi>Non parùm intereſt ad Chriſtianam charitatem quibus verbis utamur,</hi> ſaith <hi>Auguſtine; Qui novas phraſes, terminos, definitiones re<g ref="char:EOLhyphen"/>rum excogitant,</hi> &amp;c. <q>They which coin <hi>new phraſes,</hi>
+                  <note place="margin">Paraeus <hi>in</hi> 1 Cor 1.10.</note> and <hi>new termes,</hi> and <hi>new definitions of things,</hi> for the moſt part are forging ſome new doctrines: for they refuſe to ſpeak as others do, that they may ſeeme to be wiſer then others are.</q> 
+               <hi>Semper ex muta<g ref="char:EOLhyphen"/>tâ temerè phraſi ſecuta eſt dogmatum mutatio:</hi> Change of <hi>phraſes</hi> hath alwayes uſhered in change of <hi>doctrines. Et videmus eos qui ad nullam formam loquendi ſe alligant mirifica portenta doctrinae gignere:</hi>
+               <note place="margin">Ioach. Meiſt.</note> They that will not be bound to any forme of ſpeaking, at length bring forth ſtrange monſters of opinions. It is that which both <hi>Peter,</hi> 2 Ep. 2.13. and <hi>Jude,</hi> ver. 16. make a peece of the character of falſe Teachers; <hi>They ſpeak great ſwelling words of vanity:</hi>
+               <note place="margin">
+                  <hi>Calvin.</hi> Inſtru<g ref="char:EOLhyphen"/>ctio adverſus Anabags.</note> And it is that <hi>Calvin</hi> ob<g ref="char:EOLhyphen"/>ſerves of the <hi>Anabaptiſts</hi> and <hi>Libertines</hi> in his daies, they ſpake ſuch ſtrange and uncouth high-flown lan<g ref="char:EOLhyphen"/>guage, as could not be underſtood by others: ſcarce if at all by themſelves. Now we ſhould take heed of this, and in the things of God, content our ſelves with thoſe phraſes and expreſſions that are <hi>paſſant</hi> in the Church of God, and not affect novelties: The
+<pb n="24" facs="tcp:113501:15"/>greateſt <hi>hereſies</hi> that ever troubled the Church of Chriſt, have come out of the wombe of new phraſes and expreſſions; which made <hi>Melancthon</hi> wiſh, <hi>Vtinans poſsimus eadem quae bona &amp; utilia ſunt, non tantùm ijſ<g ref="char:EOLhyphen"/>dem verbis, ſed &amp; ijſdem ſyllabis &amp; literis efferre.</hi>
+               <note place="margin">Melanch <hi>in Chron.</hi> part 3.</note> 
+               <q>That we were able to utter thoſe things that are good and profitable, not only in the ſame words, but in the ſame ſyllables, and in the ſame letters:</q> I ſet my <hi>Amen</hi> to it: O that we could be of <hi>one minde,</hi> and one mouth, <hi>all ſpeak the ſame thing:</hi> that's the ſecond par<g ref="char:EOLhyphen"/>ticular of <hi>union</hi> we are to endeavour after.</p>
+            <p>A third particular of that <hi>union</hi> we are to endeavour after, is, <hi>unitas operis, union</hi> in <hi>way</hi> and practice: This the Lord hath promiſed as a <hi>bleſsing</hi> to his people, <hi>Jerem.</hi> 32.39. <hi>I will give them one heart and one way, that they may fear me for ever for their good, and the good of their children after them.</hi> And <hi>Zeph.</hi> 3.9. <hi>That they may all call upon the Name of the Lord, and ſerve him with one conſent.</hi>
+               <note place="margin">Teneamus il<g ref="char:EOLhyphen"/>lud, <hi>&amp;c.</hi> ut i<g ref="char:EOLhyphen"/>dem (apiamus credendo, &amp; permaneamus in eadem regu<g ref="char:EOLhyphen"/>lâ diſciplinae, id eſt, rectè viven<g ref="char:EOLhyphen"/>di, ſcilicet ut nosno propter novam inven<g ref="char:EOLhyphen"/>tionem vel in<g ref="char:EOLhyphen"/>telligen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam ſuam deſerat communem ſen<g ref="char:EOLhyphen"/>ſum ſidei. ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u regulam juſtè vevendi. <hi>An<g ref="char:EOLhyphen"/>ſelm.</hi>
+               </note> Now that which the Lord <hi>pro<g ref="char:EOLhyphen"/>miſeth,</hi> we may <hi>pray</hi> for, and that which we <hi>pray</hi> for, we muſt <hi>endeavour</hi> after <hi>one way:</hi> Phil. 3.16. <hi>Never<g ref="char:EOLhyphen"/>theleſſe, whereto we have already attained, let us walke by the ſame rule, let us minde the ſame thing:</hi> That is, ſaith <hi>Anſelme,</hi> 
+               <q>Let us all have a care of this, that <hi>where<g ref="char:EOLhyphen"/>unto we have already attained,</hi> we minde <hi>the ſame thing</hi> by beleeving, and walke by the ſame rule of diſcipline, that is, right living, that no man out of novelty, or leaning to his own underſtanding, deſert the common faith or rule of right living.</q> Thus much the text clearly tells us, that thoſe who cannot be of the ſame minde in all things, ſhould yet walke by the ſame rule, ſo far as they have attained unto
+<pb n="25" facs="tcp:113501:15"/>agreement: <hi>unity</hi> in practice is to be endeavoured, as well as unity in judgement: And thus now you have the explication of the point, what <hi>that union or unity is, which it is the duty of all thoſe that would walke worthy of the Goſpel are to endeavour after.</hi>
+            </p>
+            <p>I might bring abundance of reaſon for the further confirmation of this point; but I will bring no other then what the Spirit of God uſeth to inforce this do<g ref="char:EOLhyphen"/>ctrine by, and I will but point at them neither.</p>
+            <p>Look in <hi>Epheſians</hi> 4<hi rend="sup">th</hi>, the Apoſtle there in the three firſt verſes, exhorts unto this <hi>unity,</hi> as you have heard already: Now marke how many teſtimonies the Apoſtle there heaps up to ſtrengthen this exhorta<g ref="char:EOLhyphen"/>tion by;</p>
+            <p>
+               <note place="margin">Inter membra naturalis cor<g ref="char:EOLhyphen"/>poris nulla eſt diſcordia, nulla invidiae, ſed mu<g ref="char:EOLhyphen"/>tua ſypathia auxilium mu<g ref="char:EOLhyphen"/>tuam. <hi>Crag.</hi>
+               </note>Firſt (ſaith he) <hi>There is one body,</hi> ver. 4. whereof you are all members, therefore <hi>be ye one,</hi> let there be <hi>no diſcord</hi> among you.</p>
+            <p>Secondly, <hi>There is one Spirit,</hi> ver. 3. Even as in the naturall body there are not divers ſpirits or ſouls, ac<g ref="char:EOLhyphen"/>cording to the diverſity of members, but <hi>one ſpirit</hi> that gives life and motion to every member, ſo is it in the <hi>body</hi> of Chriſt, there are not as many <hi>ſeverall ſpi<g ref="char:EOLhyphen"/>rits</hi> as members, but <hi>one Spirit,</hi> which is ſo in the whole <hi>body</hi> as he is in <hi>every member,</hi> and gives life and motion to every member; <hi>For by one Spirit we are all baptiſed into one body,</hi> 1 Cor. 12.13. <hi>and we have acceſſe unto the Father by one Spirit,</hi> Epheſ. 2.18. And though there be <hi>diverſities of gifts, yet there is the ſame Spirit,</hi> 1 <hi>Cor.</hi> 12.4. There is one Spirit, therefore <hi>be you one; keep the unity of the Spirit in the bond of peace:</hi> This <hi>bond</hi> cannot be broken, this <hi>unity</hi> cannot be violated, without offence to this <hi>one Spirit.</hi>
+            </p>
+            <pb n="26" facs="tcp:113501:16"/>
+            <p>Thirdly, <hi>You are called in one hope of your calling,</hi> ver. 4. So many of you as <hi>are</hi> called by the Goſpel, <hi>one</hi> and the <hi>ſame ſalvation, Heaven, glory</hi> is promiſed to you, and ſo many of you as have obeyed this calling, you are all commanded to hope for this ſalvation and glo<g ref="char:EOLhyphen"/>ry all of you, there you ſhall live <hi>ſweetly</hi> and bleſſed<g ref="char:EOLhyphen"/>ly together for ever; therefore your peace and union ought no more to be divided here, then your inheri<g ref="char:EOLhyphen"/>tance can be divided hereafter: It is a ſhame for them to quarrel and fall out <hi>in via,</hi> that muſt live for ever together <hi>in patriâ.</hi> Indeed if God had not called all of us to the hope of the ſame inheritance in light, but had called ſome to a better, others to a worſe condi<g ref="char:EOLhyphen"/>tion, given ſome a double portion as <hi>Joſeph</hi> did <hi>Ben<g ref="char:EOLhyphen"/>jamin,</hi> or a party-coloured coat above others, as <hi>Jacob</hi> did <hi>Joſeph,</hi> there might be ſome pretence for ſtrife and envying, ſomething that might give occaſion to a falling out by the way; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Greek Scholiaſt: God gives not to one beleever more then another; but gives unto all of them immortality, eternall life, immortall glo<g ref="char:EOLhyphen"/>ry; the brotherhood, the inheritance, <hi>you are all called into one hope of your calling,</hi> therefore be ye one: <hi>O ſi animis noſtris inſideret,</hi> ſaith <hi>Calvin,</hi> &amp;c. <q>O that we would conſider that we are under this Law;<note place="margin">
+                     <hi>Calvin.</hi> ad. loc.</note> that the children of God may no more differ among themſelves then the Kingdom of Heaven can be divided; oh how wary would we be in pre<g ref="char:EOLhyphen"/>ſerving brotherly love, how would we tremble at contentions, if we did conſider as we ought, that they all eſtrange themſelves from the Kingdom of
+<pb n="27" facs="tcp:113501:16"/>God, that divide themſelves from their brethren: But I know not (ſaith he) how it comes to paſſe, that we can ſecurely boaſt our ſelves to be the children of God, and yet forget brotherly love one to ano<g ref="char:EOLhyphen"/>ther.</q> The children of God have all but <hi>one hope, one inheritance,</hi> therefore ſhould all be <hi>but one.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>num Do<g ref="char:EOLhyphen"/>minum oppo<g ref="char:EOLhyphen"/>ponit multis Paganorum pe<g ref="char:EOLhyphen"/>nat thus es Dijs rutularibus quos tanquam Dominos ſuos varijs officijs demerebantur.</note>Fourthly, ſaith the Apoſtle, <hi>There is one Lord,</hi> ver. 3. even the Lord Jeſus. Ye are not as the Heathen, <hi>that have many gods, and many Lords,</hi> but to you there is but <hi>one Lord Jeſus Chriſt,</hi> 1 <hi>Cor.</hi> 8.6. and ye are all his ſervants. Therefore be ye one; It redounds to the diſadvantage and diſhonour of him who is your <hi>only Lord,</hi> if there be envying, diviſions, ſtrifes among you that are his ſervants, therefore <hi>be ye one.</hi>
+            </p>
+            <p>Fifthly, There <hi>is one faith,</hi> ver. 3. Both <hi>one grace of faith, quâ, whereby ye beleeve;</hi> and <hi>one doctrine</hi> of faith, <hi>quae,</hi> which is beleeved: for <hi>all</hi> the Saints, do by <hi>one</hi> and the <hi>ſame</hi> grace, beleeve in <hi>one</hi> and the <hi>ſame Christ.</hi> Not in <hi>one Christ before the Law,</hi> in <hi>another under the Law,</hi> in <hi>another after the Law.</hi> Nor the <hi>Jews one way,</hi> the <hi>Gentiles</hi> that are converted <hi>another way: Non aliter in oriente, aliter in meridie, aliter in occidente:</hi> therefore all beleevers ought to the utmoſt, <hi>to endeavour to keep the unity of the ſpirit in the bond of peace.</hi> There is <hi>one faith,</hi> therefore <hi>be ye one.</hi>
+            </p>
+            <p>Sixtly, There is <hi>one baptiſme,</hi> ver. 5. Chriſt hath not inſtituted ſeverall, but <hi>one baptiſme: All</hi> are baptiſed with water in <hi>one Name</hi> of <hi>one God, Father, Son</hi> and <hi>ho<g ref="char:EOLhyphen"/>ly Ghoſt.</hi> The <hi>Jew</hi> converted hath not <hi>one baptiſme,</hi> the <hi>Grecian</hi> another; the <hi>free</hi> one, the <hi>bond</hi> another; the <hi>rich</hi> one, the <hi>poor</hi> another; but as they are all <hi>one</hi> in Chriſt Jeſus, ſo they are all by one baptiſme
+<pb n="28" facs="tcp:113501:17"/>baptized into Chriſt: your <hi>baptiſme</hi> is <hi>but one,</hi> there<g ref="char:EOLhyphen"/>fore <hi>be ye one.</hi>
+            </p>
+            <p>Seventhly, ſaith the Apoſtle, there is <hi>one God and Father of all,</hi> therefore be ye one. If all beleevers call upon <hi>one</hi> and the <hi>ſame God and Father,</hi> how dare they, how can they break the bond of <hi>brotherly love?</hi> To ſee <hi>brethren,</hi> the children of one father, live in <hi>rankor</hi> and malice one againſ another, is a diſpleaſing ſight to all, but O how wounding is it to the <hi>heart</hi> of their <hi>own Father?</hi> So is it to God, to ſee his children <hi>out of charity,</hi> at <hi>diſcord.</hi> There is <hi>one God</hi> and <hi>Father who is over all,</hi> and therefore able to puniſh the miſcarriage of all, <hi>and in all,</hi> and therefore thorowly acquainted with the miſcarriages of <hi>all,</hi> and <hi>in you all,</hi> for you are <hi>all the temple of God,</hi> and <hi>one God dwells in you all: Ergo qui fidelium ſcindant unitatem, proinde faciuns ac ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>num Deum patrem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in partes vellent ſcindere:</hi> They that would divide the <hi>unity</hi> of the faithfull, do as much as it were to divide God that dwels in them.</p>
+            <p>Here then you ſee a ſeven-fold argument which the Apoſtle uſeth for the enforcing of this duty of my Doctrine.<note place="margin">Quotles unum hic iegitur to<g ref="char:EOLhyphen"/>ties nectatur concluſio: Quod unum eſt diſcerpt non poſſit. <hi>Beza</hi> ad to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uia.</note> There is <hi>one body</hi> whereof you are all members, therefore be <hi>you one:</hi> There is <hi>one Spirit</hi> whereof you are all temples, therefore keep the <hi>unity of the Spirit: Ye are called in one hope of your calling,</hi> therefore be ye of <hi>one</hi> heart: <hi>There is one Lord, one faith, one baptiſme, one God and Father of all,</hi> &amp;c. there<g ref="char:EOLhyphen"/>fore be <hi>you one,</hi> ſeeing you are <hi>one</hi> in <hi>all</hi> theſe parti<g ref="char:EOLhyphen"/>culars, there is abundant reaſon, you ſhould be <hi>one</hi> a<g ref="char:EOLhyphen"/>mong your <hi>ſelves.</hi>
+            </p>
+            <p>Look again into this fourth chapter to the <hi>Epheſi<g ref="char:EOLhyphen"/>ans,</hi>
+               <pb n="29" facs="tcp:113501:17"/>verſ. 12, 13. you ſhall finde another argument for this endeavour after unity: <hi>He gave ſome Apoſties and ſome Evangeliſts, and ſome Prophets, and ſome Pastors and Teachers, for the perfecting of the Saints, for the work of the Miniſtery, for the edifying of the body of Chriſt, till we all come in the unity of the faith,</hi> &amp;c. The Text ſhews clearly, that <hi>one</hi> main end which Chriſt aimed at in all the officers which he hath ſet in his Church, and the guifts beſtowed upon thoſe officers, it was to bring his people to <hi>Vnity:</hi> Not onely to faith and the knowledge of the Sonne of God, but to <hi>unity in the faith, and in the knowledge of the Sonne of God. Mag<g ref="char:EOLhyphen"/>num argumentum ſuggerit Apistolus, ſtudioſe ſervanda unitatis ſpiritus.</hi> The Apoſtle here ſupplyes us with a weighty argument, to perſwade us to keep the uni<g ref="char:EOLhyphen"/>ty of the ſpirit, which ſo precious and of ſuch eſteem with Chriſt that for the ſake of it, (among other things, he hath inſtituted the Miniſtry) and officers which he hath given unto his Church. But this may ſuffice for the Explication and proof of the point. I come now to Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> This truth, <hi>That it is the duty of all thoſe that would walk worthy of the Goſpel, to endeavour a ſweet, cloſe, ho<g ref="char:EOLhyphen"/>ly, firm, union,</hi> and to be <hi>one</hi> in <hi>judgement</hi> and opinion, <hi>one</hi> in <hi>heart</hi> and <hi>affection<g ref="char:punc">▪</g>
+               </hi> to <hi>ſpeak the fame thing, walk by the ſame rule:</hi> then this may ſerve in the <hi>firſt</hi> place, to juſtifie that <hi>ſolemn league and Covenant</hi> which we have all taken; (I am ſure at leaſt <hi>all</hi> ſhould have taken) and which you, Right Honourable and beloved lately have renewed, even in that branch of it, and in thoſe particulars which ſome doe moſt ca<g ref="char:EOLhyphen"/>vil againſt: namely that laſt branch of the firſt article,
+<pb n="30" facs="tcp:113501:18"/>wherein we engage our ſelves to <hi>endeavour to bring the Churches of God in the three Kingdomes, to the neareſt conjuction and Vniformity, in Religion, confeſsion of faith, form of Church government, Directory for wor<g ref="char:EOLhyphen"/>ſhip and Catechiſing, that we and our posterities after us, may as brethren live in faith and love, and the Lord may delight to dwell in the midſt of us.</hi> As alſo the ſecond Article, wherein we ſwear <hi>in like manner without re<g ref="char:EOLhyphen"/>ſpect of perſons, to endeavour the extirpation of Popery, Prelacy, Superſtition, Hereſy, Schiſme, Prophaneneſse, &amp;c. That the Lord may be one, and his name one in the three Kingdoms.</hi> I would there were none that a few years ago, would have thought they could never have bleſſed God enough for ſuch a Covenant, that now ſpurne and ſcorne it, even <hi>in,</hi> nay <hi>for</hi> theſe very clauſes. But I beſeech you, what is there in any of theſe particulars, but what is a duty incumbent from God, upon every one that would walk worthy of the Goſpel, as you have heard abundantly proved this day. You have ſworne to endeavour the <hi>neareſt conjunction and uni<g ref="char:EOLhyphen"/>formity in Religion:</hi> what's that but to endeavour to be of <hi>one heart and one ſoul,</hi> Act. 4.32. to endeavour to be perfectly joyned together, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the ſame minde, and in the ſame judge<g ref="char:EOLhyphen"/>ment, 1 <hi>Cor.</hi> 1.10. you have ſworne to endeavour the neareſt conjunction in <hi>confeſsion of faith,</hi> what's that but to endeavour <hi>all to ſpeak the ſame thing?</hi> 1 Cor. 1.10. <hi>and with one mouth to glorify God,</hi> Rom. 13.5. you have ſworne the ſame in reference to <hi>one form of Church-government, directory for worſhip and Catechiſing;</hi> what's this but to endeavour <hi>to walke by the ſame rule? Phil.</hi> 3.13. you have ſworne <hi>to endeavour to extirpate
+<pb n="31" facs="tcp:113501:18"/>Popery, Prelacy, Superſtition, Hereſy, Schiſme, Prophane<g ref="char:EOLhyphen"/>neſſe.</hi> What's this <hi>but to endeavour that there be no di<g ref="char:EOLhyphen"/>viſions among you, but that you be perfectly joyned toge<g ref="char:EOLhyphen"/>ther,</hi> 1 <hi>Cor.</hi> 1.10. All this is but your duty. And the purpoſe and intent of all this is; That <hi>the Lord may be one, and his name one in the three Kingdomes: And that we and our poſterity after us, may as brethren live in faith and love, and the Lord may delight to dwell in the midſt of us,</hi> what is, if this be not a <hi>ſweet, cloſe, holy, firm union.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> If any ſhall demand, how doth it appear that we ſhould endeavour ſuch an union of <hi>all the Churches</hi> in a <hi>Nation,</hi> in three Nations; we grant indeed, that the <hi>Saints</hi> of <hi>a particular Congregation,</hi> ought to have <hi>one heart and one way,</hi> to be of <hi>one minde</hi> and of <hi>one judge<g ref="char:EOLhyphen"/>ment.</hi> But how do you prove that ſuch a thing is to be attempted and endeavoured in a <hi>Nation.</hi> The <hi>Phi<g ref="char:EOLhyphen"/>lippians, Epheſians, Corinthians,</hi> upon whom the Apo<g ref="char:EOLhyphen"/>ſtle injoynes this <hi>unity,</hi> were Churches of a particu<g ref="char:EOLhyphen"/>lar Congregation.</p>
+            <p>
+               <hi>A.</hi> I anſwer, this is <hi>gratis dictum,</hi> that the Churches of <hi>Epheſus, Corinth, Philippi,</hi> conſiſted of no more then might ordinarily <hi>meet together</hi> for <hi>all duties of worſhip</hi> in one individuall Congregation. I have <hi>often</hi> heard it <hi>ſaid,</hi> but never could yet hear or ſee it <hi>proved,</hi> but I have ſeen good proof of the <hi>contrary:</hi> However, ſure I am, if <hi>union</hi> in a particular <hi>Congregation</hi> be good, <hi>union</hi> in the Churches of two or three Nations is better; for <hi>Bonum quo communius eo melius</hi>
+               <note n="*" place="margin">Mulrum va<g ref="char:EOLhyphen"/>let ad propiti<g ref="char:EOLhyphen"/>andum Deum fraterra con<g ref="char:EOLhyphen"/>cordia. Si duo ex vobis ait Dominus con<g ref="char:EOLhyphen"/>veneritis in ter<g ref="char:EOLhyphen"/>râ, quicquid pe<g ref="char:EOLhyphen"/>tieritis fiet vo<g ref="char:EOLhyphen"/>bis. Si <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uobus hominibus qua<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>to magis duobus popu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is? Si<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ul nos Deo pro<g ref="char:EOLhyphen"/>ſternamus, par<g ref="char:EOLhyphen"/>ticipamini no<g ref="char:EOLhyphen"/>biſcum unitate<g ref="char:cmbAbbrStroke">̄</g> participemur vobiſcum dolo<g ref="char:EOLhyphen"/>rem, <hi>&amp;c. Au<g ref="char:EOLhyphen"/>guſt.</hi> lib. <hi>20.</hi> de Bapti. cont. Do natiſtas. <hi>Sui<g ref="char:EOLhyphen"/>table where<g ref="char:EOLhyphen"/>unto was that expreſſion of M.</hi> Nye, <hi>in his Exhortation to the</hi> Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons and Aſ<g ref="char:EOLhyphen"/>ſembly of Mini<g ref="char:EOLhyphen"/>ſters, <hi>Septemb. 25. 1643. If (ſaith he) when but two or three agree or aſſent up<g ref="char:EOLhyphen"/>on any thing on earth, it ſhall be confirmed in Heaven; and for this, becauſe they ga<g ref="char:EOLunhyphen"/>ther together in his Name, much more when two or three Kingdoms, ſhall meet and conſent together</hi> in his Name, and for his Name, That God may be one, and his Name one amongſt them, <hi>and his preſence amidſt them.</hi>
+               </note>.
+<pb n="32" facs="tcp:113501:19"/>And ſure I am, the reaſons upon which the Apoſtle urgeth this care of <hi>unity</hi> upon the <hi>Epheſians,</hi> binde not only to <hi>a particular Congregation,</hi> but to <hi>all</hi> upon whom the <hi>Name of Christ is called.</hi> There is <hi>one body, one Spirit, one hope of calling, one Lord, one faith, one ba<g ref="char:EOLhyphen"/>ptiſme, one God and Father of all;</hi> not only the Saints in a particular Congregation, but of all the Saints upon earth. And Chriſt <hi>gave Apostles, Prophets,</hi> &amp;c. <hi>for the worke of the Miniſtery, for the perfecting of the Saints, for the edifying of the body of Chriſt</hi> (not till thoſe of this or that Congregation come, but) <hi>till we all come in the unity of the faith,</hi> &amp;c. And ſure I am, the prayer which our Lord Jeſus Chriſt made, <hi>Joh.</hi> 17. was not only for <hi>a particular Congregation,</hi> but <hi>for all that ſhould beleeve in him, that they all might be one,</hi> and that not by a <hi>ſpirituall</hi> and <hi>myſticall union</hi> only, but by a <hi>viſible union,</hi> ſuch an <hi>union</hi> as the <hi>world</hi> might take notice of; ver. 21. <hi>That they may be one in us, that the world may beleeve that thou haſt ſent me;</hi> ver. 15. <hi>That they may be perfect in one, that the world may know that thou hast ſent me.</hi> And ſure I am, the time will come, when <hi>all</hi> that beleeve in Chriſt ſhall be <hi>viſibly one,</hi> when the Lord <hi>Jeſus</hi> having <hi>deſtroyed the Antichriſt</hi> and all his other enemies, <hi>there ſhall be one ſheep-fold, and one ſheephard,</hi> Joh. 10.16. And therefore I thinke we ought to deſire, not only that <hi>all the Churches in the three Kingdoms,</hi> but that <hi>all the Churches in the world</hi> may be <hi>one,</hi> in <hi>Doctrine, Diſcipline, Worſhip and Government according to the word of God:</hi> and to en<g ref="char:EOLhyphen"/>deavour it as much as in us lies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> In the ſecond place: This truth, <hi>That it is the duty of all thoſe that would walke worthy of the Goſpel, to endea<g ref="char:EOLhyphen"/>vour
+<pb n="33" facs="tcp:113501:19"/>a ſweet, cloſe, holy, laſting union among themſelves,</hi> calls us to bewail the great want of that <hi>unity</hi> that ſhould be amongſt Gods people, and ſuch as profeſſe to deſire <hi>to walke worthy of the Goſpel:</hi> and not only want of <hi>unity</hi> but want of <hi>care and endeavour</hi> after that <hi>unity,</hi> which is too too diſcernable in theſe times wherein we live. We live (beloved) in very ſad times, ſometime I am even ready to call them (in reſpect of the <hi>breaches</hi> and <hi>diviſions</hi> that are amongſt us) the ſaddeſt times that ever the Church was under. But I correct my ſelfe, when I remember how the <hi>Church</hi> of God in all ages hath been exerciſed more or leſſe in this kinde with <hi>breaches</hi> and <hi>diviſions.</hi> In the firſt (which were the <hi>pureſt,</hi> and therefore we may conceive were the <hi>peaceablest</hi>) times of the Church; in that famous <hi>Church</hi> of <hi>Antioch,</hi> where the <hi>Diſciples</hi> were firſt cal<g ref="char:EOLhyphen"/>led <hi>Chriſtians, Acts</hi> 11.26. where they had the pre<g ref="char:EOLhyphen"/>ſence and labours of many <hi>Prophets</hi> and Teachers, as <hi>Barnabas,</hi> and <hi>Simeon,</hi> and <hi>Lucius,</hi> and <hi>Manaen,</hi> and <hi>Paul,</hi> Acts 13.1, 2. yet even there, there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>no ſmall diſſenſion and diſputation,</hi> &amp; that within 4 or 5 yeers after the Goſpel firſt came among them, <hi>Act.</hi> 15.1, 2. So in the <hi>Church</hi> of <hi>Corinth,</hi> within almoſt as few years after its plantation, there were both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Schiſmes</hi> and <hi>Hereſies,</hi> 1 <hi>Cor.</hi> 11.18, 19. In the Church of <hi>Rome,</hi> there were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſects,</hi> or <hi>diviſions</hi> and <hi>offences,</hi> Rom. 16.18. yea, and theſe <hi>diſſenſions, diviſions, offences,</hi> were not only <hi>inter plebem,</hi> among the ordinary ſort of <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> but among thoſe that were the <hi>pillars</hi> of the Church, the very Apoſtles themſelves: So <hi>Paul</hi> and <hi>Barnabas,</hi> Acts 13. in the ſecond verſe, they had no
+<pb n="34" facs="tcp:113501:20"/>ſmall <hi>diſſenſion</hi> with the falſe teachers in the 39. verſe of that chapter,<note place="margin">Medicu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> medi<g ref="char:EOLhyphen"/>co verbo acer<g ref="char:EOLhyphen"/>bitatem &amp; vi<g ref="char:EOLhyphen"/>rulentiam diſſi<g ref="char:EOLhyphen"/>dij experimere voluit. <hi>Brent.</hi> ad loc.</note> ye read there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a very ſharpe and bitter contention between themſelves: So <hi>Paul</hi> and <hi>Peter,</hi> there was a publike conteſt be<g ref="char:EOLhyphen"/>tween them; <hi>Paul</hi> withſtood him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to his face,</hi> and <hi>before them all,</hi> Gal. 2.11, 14. So in after-times, the difference between <hi>Poly<g ref="char:EOLhyphen"/>crates</hi> the diſciple of <hi>John,</hi> and <hi>Victor</hi> Biſhop of <hi>Rome,</hi> though it were in <hi>re nihili,</hi> being but about <hi>Eaſter day,</hi> yet how they did divide and diſtract the Chriſtian world, and <hi>engage,</hi> yea even <hi>enrage</hi> the Eaſterne and Weſterne Churches one againſt another, <hi>adeò ut ſeſe mutuò excommunicarint &amp; anathematizarint,</hi> that they did <hi>excommunicate</hi> and <hi>curſe</hi> one another. I might mention the difference that fell out in after ages, between <hi>Cyprian</hi> and <hi>Cornelius, Baſill</hi> and <hi>Do<g ref="char:EOLhyphen"/>macus, Chryſoſtom</hi> and <hi>Epiphanius, Cyril</hi> and <hi>Theodo<g ref="char:EOLhyphen"/>ret, Hierom</hi> and <hi>Auguſtine, Proſper</hi> and <hi>Caſsianus, Lu<g ref="char:EOLhyphen"/>ther</hi> and <hi>Zwinglius, Luther</hi> and <hi>Calvin:</hi> But I men<g ref="char:EOLhyphen"/>tion theſe things, only that you may ſee, that the <hi>dif<g ref="char:EOLhyphen"/>ferences</hi> that are among <hi>our ſelves,</hi> among the <hi>godly,</hi> among <hi>Miniſters,</hi> are <hi>no new thing under the Sunne; ſic fuit ab initio,</hi> it was ſo in the ages that were before us; and therefore there is no <hi>reaſon,</hi> that any of us ſhould be <hi>ſcandalized</hi> or <hi>offended</hi> at them, yet reaſon there is that we ſhould all <hi>bewail</hi> and <hi>lament</hi> them.</p>
+            <p>What <hi>ſober gracious heart</hi> would not <hi>bleed,</hi> to ſee how <hi>ſmall a matter</hi> ſome men make <hi>of diſſenting from</hi> all the <hi>Churches</hi> of <hi>Chriſt,</hi> and embracing opinions, not ſo much <hi>new</hi> and <hi>strange</hi> as <hi>Heteradox,</hi> witneſſed againſt and condemned by <hi>all the Churches?</hi> To ſee how many under pretence of purſuing <hi>truth</hi> and
+<pb n="35" facs="tcp:113501:20"/>
+               <hi>liberty,</hi> have clean <hi>forgot</hi> that there is any ſuch thing to be regarded as <hi>unity:</hi> Every thing that <hi>to them is new,</hi> is in their apprehenſion <hi>truth,</hi> and every thing which they thinke <hi>truth,</hi> they preſume they have a <hi>liberty to hold,</hi> and to <hi>hold it forth</hi> without any regard to <hi>unity.</hi> Men are not able when once they have drunke in an <hi>opinion,</hi> to keep it to themſelves accord<g ref="char:EOLhyphen"/>ing to the rule of the <hi>Apoſtie,</hi> it muſt forth, <hi>Scire tuum nihil eſt niſi te ſcire hoc ſciat alter:</hi> To ſee how <hi>men multiply opinions,</hi> and <hi>rowl</hi> and <hi>run</hi> from one errour to another, <hi>waxing worſe and worſe, deceiving and being deceived,</hi> till at length they come to down-right <hi>blaſ<g ref="char:EOLhyphen"/>phemy,</hi> renouncing all <hi>Ordinances, Scriptures;</hi> yea (we ſhould tremble to thinke of it) ſome are fallen ſo far, as to renounce <hi>Christ</hi> and <hi>God</hi> himſelf; and which is worſt of all (if ſome mens doctrines be true) all this muſt and ought to be tolerated; and it is now (in ſome mens judgements) more lawfull and ſafe for men to <hi>erre</hi> and <hi>blaſpheme,</hi> then either for <hi>Miniſters</hi> to <hi>reprove,</hi> or for <hi>Magiſtrates</hi> to <hi>repreſſe</hi> theſe <hi>errours<g ref="char:punc">▪</g>
+               </hi> But theſe things I had rather <hi>mourn</hi> over, then <hi>ſpeak</hi> of them. It is not <hi>words,</hi> but <hi>tears</hi> and <hi>prayers</hi> (it any thing under heaven) that muſt <hi>heal</hi> theſe ſad evils. To provoke you and my ſelf to contribute ſomething of this kinde to this purpoſe, let me propound but two particulars to conſideration.</p>
+            <p>Firſt, Conſider the detriment and prejudice that <hi>Religion</hi> ſuffers by the diviſions that are amongſt us. Secondly, Conſider the prejudice and detriment that <hi>we our ſelves</hi> may ſuffer by it.</p>
+            <p>Firſt, The <hi>Diviſions</hi> and <hi>Diſſenſions</hi> that are <hi>amongſt</hi> thoſe that <hi>profeſſe</hi> the <hi>Goſpel,</hi> brings a great deal of
+<pb n="36" facs="tcp:113501:21"/>ſcandall upon <hi>Religion</hi> it ſelf, and upon the <hi>Goſpel</hi> which we profeſſe: I dare confidently ſpeak it, there is <hi>ſcarce</hi> any <hi>one thing</hi> that hath been more <hi>prejudiciall</hi> to the <hi>Goſpel,</hi> from its firſt going forth into the world, <hi>then</hi> the diviſions and <hi>differences</hi> which have fallen a<g ref="char:EOLhyphen"/>mong the <hi>profeſsors</hi> of it. <hi>Clemens Alexandrinus</hi> (who lived about the year of Chriſt 200. and in whoſe time there were more then 20 <hi>Haereſiarchae, arch here<g ref="char:EOLhyphen"/>ticks</hi> or <hi>Maſters of opinions</hi> in the Church, who had e<g ref="char:EOLhyphen"/>very one of them their peculiar diſciples, <hi>&amp; catus Eccleſiasticos,</hi> and peculiar <hi>Church-meetings,</hi> among whom,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>latius</hi> de Se<g ref="char:EOLhyphen"/>ctis diſſenſioni<g ref="char:EOLhyphen"/>bus, <hi>&amp;c</hi> Relig. Papiſticae, <hi>&amp;c.</hi> Clem. Alex. lib. <hi>7<hi rend="sup">o</hi>
+                  </hi> Strom.</note> 
+               <hi>doctiſsimi &amp; excellentiſsimi viri reperiebantur,</hi> were ſome moſt excellent and learned men,) he tells us, that the <hi>Jews</hi> and <hi>Heathens</hi> in his time, were wont to upbraid the Chriſtians with this, <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. You, O Chriſtians, cannot agree among your ſelves, but have ſo many, and ſo differing ſects among you, who though they all challenge to themſelves the title of Chriſtian, yet they do all extremely deteſt and curſe, and condemne one another; wherefore your Religion (fay they) can neither be true, nor come from God,<note place="margin">Chanes is fuit Chiauſes Ma<g ref="char:EOLhyphen"/>maluchus, cui <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nteà Euſt a<g ref="char:EOLhyphen"/>chio nomen fu<g ref="char:EOLhyphen"/>crat, &amp; qui non procal an Alba Iulia in Oppi<g ref="char:EOLhyphen"/>dos Tordo, mul<g ref="char:EOLhyphen"/>tes annos Ludi<g ref="char:EOLhyphen"/>magiſtrum pro<g ref="char:EOLunhyphen"/>feſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pueros in iriviae docuerat. <hi>Philp. Camer.</hi> in Oper. Succeſ. cap. <hi>39.</hi>
+                  </note> otherwiſe undoubtedly it would be <hi>one, certain</hi> and agreeing with it ſelf.</q> See what deſperate arguments againſt our Religion our divi<g ref="char:EOLhyphen"/>ſions furniſh our adverſaries with.</p>
+            <p>
+               <hi>Philippus Camerarus</hi> tells a ſtory of <hi>one</hi> who had ſometimes been a <hi>Chriſtian</hi> and a <hi>School-maſter,</hi> but af<g ref="char:EOLhyphen"/>terwards turned <hi>Turke,</hi> and was ſent <hi>Embaſsadour</hi> to <hi>Stephen</hi> King of <hi>Poland: Is liberè dicere ſolitus fuit,</hi> &amp;c. who was wont to profeſſe freely and openly, <q>That he was moved to renounce Chriſt, by the notorious jarrings, and enmities, and diſcord of <hi>Chriſtians</hi>
+                  <pb n="37" facs="tcp:113501:21"/>differing in <hi>Religion;</hi> and ſhewed a writing, <hi>Valdè atrox &amp; amarulentum,</hi> a ſharpe and bitter writing, compoſed by a certain <hi>Polonian;</hi> the ſcope whereof was to prove, that <hi>Mahomet</hi> was better then <hi>Luther. Et hos inquit libros veſtrarum diſcerdiarum &amp; here<g ref="char:EOLhyphen"/>ſium testes in Thraciam nunc aſperto. Muſulmânis meis fidei veſtrae unitatem certiſsimis rerum argumentis o<g ref="char:EOLhyphen"/>ſtenſuirat.</hi> Theſe Books, ſaith he, the witneſſe of your <hi>diſcords</hi> and <hi>hereſies,</hi> will I now carry into <hi>Thrace</hi> with me, and will ſhew to thoſe of <hi>my Reli<g ref="char:EOLhyphen"/>gion,</hi> the vanity of your faith by moſt certain and reall arguments.</q> 
+               <note place="margin">Such as are, <hi>the Compaſſio<g ref="char:EOLhyphen"/>nate Sainari<g ref="char:EOLhyphen"/>tan,</hi> and the whole brood of him who calls himſelf <hi>Young Martin<g ref="char:punc">▪</g>
+                  </hi>
+               </note> God grant that none of the ſcur<g ref="char:EOLhyphen"/>rile Pamphlets of theſe times fall into ſuch hands.</p>
+            <p>It hath been one of the greateſt objections of the <hi>Papiſts</hi> againſt the <hi>Reformed Churches,</hi> That the diſſen<g ref="char:EOLhyphen"/>ſions among themſelves, are evident ſignes of an here<g ref="char:EOLhyphen"/>ticall ſpirit; ſo <hi>Bellarmine, Stapleton, Becane,</hi> &amp;c. <hi>Fitz-Sinnonde</hi> an Iriſh Jeſuit, hath writ a <hi>juſtum volumen,</hi> a<g ref="char:EOLhyphen"/>bout the differences of the <hi>Divines</hi> of <hi>Britain</hi> among themſelves, which he intitles <hi>Britanomachia.</hi> It is true, <hi>Quis tulerit gracchos,</hi> &amp;c? and <hi>Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dius accuſat Maechos,</hi> &amp;c. <hi>We</hi> could recriminate with eaſe, and turne them to <hi>Flarius</hi> his Tractate, <hi>De Sectis diſſenſionibus contradictionibus &amp; conſuſionibus Doctrinae &amp; Religi<g ref="char:EOLhyphen"/>onis Scriptorum &amp; Doctorum Pontiſiciorum.</hi> Or we could remit them to <hi>Pappus,</hi> who hath enumerated 237 <hi>differences</hi> they have among them: Or tell them of a <hi>Divine of Britaine,</hi> that to requite the <hi>Jeſuits Bri<g ref="char:EOLhyphen"/>tanomachia,</hi> hath reckoned up 300 <hi>differences</hi> among them at <hi>Rome;</hi> and this might ſtop their mouths, but can never juſtifie nor excuſe our <hi>diviſions;</hi> If there be confuſion and diviſion in <hi>Babel,</hi> muſt it be ſo in <hi>Bethel</hi>
+               <pb n="38" facs="tcp:113501:22"/>too? God grant our <hi>diviſions</hi> do not give advantage to ſome of that crue to write a ſecond book, <hi>De Bri<g ref="char:EOLhyphen"/>tannomachia</hi> againſt us.</p>
+            <p>But if <hi>Religion</hi> ſhould not <hi>ſuffer</hi> by our <hi>diviſions abroad,</hi> yet it <hi>ſuffers</hi> enough among <hi>our ſelves</hi> here at home: For certainly there is nothing doth more ex<g ref="char:EOLhyphen"/>poſe <hi>Religion</hi> and the <hi>intended Covenanted Reforma<g ref="char:EOLhyphen"/>tion,</hi> to <hi>obloquie</hi> and <hi>ſcorne,</hi> nothing that doth more confirme and harden people in their <hi>idolatry, ſuper<g ref="char:EOLhyphen"/>ſtition, malignity, profaneneſſe, atheiſme,</hi> then the wofull diviſions that are among the <hi>godly party,</hi> the <hi>party</hi> that all this while have <hi>cried up</hi> and <hi>called for Reformation: Cum enim ſine intermiſsione ſic altercantes vident,</hi> &amp;c. for when men ſee the endleſſe contentions of thoſe, who all profeſſe themſelves to be for truth and for the glo<g ref="char:EOLhyphen"/>ry of God, that theſe cannot agree, <hi>one</hi> ſaith, <hi>This is truth;</hi> another ſaith, <hi>That is truth;</hi> one ſaith, <hi>This is the way of Chriſt;</hi> another ſaith, <hi>No, it is the way of An<g ref="char:EOLhyphen"/>tichriſt:</hi> Men of profane and carnall mindes, take oc<g ref="char:EOLhyphen"/>caſion from hence, to call in queſtion, not only the things that are thus queſtioned, but all other points of <hi>Religion,</hi> and thinke that <hi>all</hi> that which we call <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> and <hi>divine truth,</hi> is <hi>but a fancy and opinion: One</hi> man <hi>thinks thus,</hi> another <hi>thus;</hi> but there is nothing certain. This makes men of carnall and profane ſpi<g ref="char:EOLhyphen"/>rits, thinke <hi>Religion</hi> not only a <hi>fancy,</hi> but a <hi>frenzie. If the Church</hi> (ſaith the Apoſtle) <hi>be come together into one place,</hi>
+               <note place="margin">1 Cor. 14.23</note> and <hi>all ſpeak with tongues, and there come in the unlearned and unbeleevers, will they not ſay you are mad?</hi> What will they ſay then, when <hi>in the Church</hi> they ſhall hear <hi>ſeverall</hi> and <hi>contrariant</hi> doctrines, what a door doth this open to <hi>Epicuriſme</hi> and Atheiſme? what
+<pb n="39" facs="tcp:113501:22"/>
+               <hi>fatall</hi> and <hi>deſtroying ſtumbling blocks</hi> doth this lay be<g ref="char:EOLhyphen"/>fore the face of ſinners? and how many poor ſouls may hereby be turned aſide for ever from ſeeking af<g ref="char:EOLhyphen"/>ter <hi>God,</hi> his <hi>wayes</hi> and <hi>truth,</hi> the Lord only knows? But O that this <hi>conſideration</hi> might helpe us to bewail theſe differences, and might be a means to heal them: I have read of <hi>Baſil</hi> and <hi>Euſebius,</hi> between whom there was a great conteſt, that when they heard how the <hi>Arians,</hi> the common enemies of <hi>Christ</hi> and of his <hi>truth</hi> and <hi>Church,</hi> began to make uſe of their differ<g ref="char:EOLhyphen"/>ence to prejudice of the truth, they preſently laid their <hi>controverſie</hi> aſleep, and <hi>both</hi> joyned againſt the <hi>com<g ref="char:EOLhyphen"/>mon adverſary:</hi> We cannot be ignorant what advan<g ref="char:EOLhyphen"/>tage <hi>Papiſts</hi> and malignants make of <hi>our differences,</hi> that it is a principall <hi>weapon</hi> whereby they fight a<g ref="char:EOLhyphen"/>gainſt the <hi>cauſe</hi> and <hi>worke</hi> of <hi>Reformation,</hi> a principall <hi>engine,</hi> whereby they have drawn in and <hi>engaged</hi> ma<g ref="char:EOLhyphen"/>ny of the judicious <hi>multitude</hi> againſt us: And ſhall we yet uphold and continue our differences? ſhall we yet put weapons into our enemies hands, wherewith to fight (not only againſt us, but) againſt the Goſpel and truth of Jeſus Chriſt.</p>
+            <p>
+               <hi>Secondly,</hi> Conſider how prejudiciall theſe <hi>differen<g ref="char:EOLhyphen"/>ces</hi> muſt needs be to the <hi>godly party</hi> amongſt us, I mean the whole body of thoſe that have adhered to the cauſe of God and of Religion managed by the Parliament, for I can by no means permit that title of <hi>godly party,</hi> to be <hi>impropriated, ingroſt, monopoli<g ref="char:EOLhyphen"/>zed,</hi> as ſome would have it. There are two things that (in mine eye) ſeem to threaten the godly party in this Kingdom; the <hi>one</hi> is, the <hi>rage,</hi> the <hi>bloudy rage</hi> of the <hi>Antichriſtian</hi> faction againſt them; the <hi>other</hi> is,
+<pb n="40" facs="tcp:113501:23"/>their <hi>emulations</hi> and <hi>contentions</hi> one againſt another; and to me the <hi>later</hi> ever was a great deal more dread<g ref="char:EOLhyphen"/>full then the <hi>former:</hi> The <hi>rage of the enemies</hi> againſt them, is <hi>extrinſecall</hi> and <hi>accidentall,</hi> but their <hi>diviſions</hi> are <hi>intrinſecall</hi> and <hi>inteſtine;</hi> and men <hi>die</hi> more fre<g ref="char:EOLhyphen"/>quently from <hi>intrinſecall cauſes,</hi> from diſeaſes bred within, then from ſuch things as are <hi>extrinſecall</hi> and <hi>adventitious</hi> to them; more <hi>Kingdoms</hi> and Common<g ref="char:EOLhyphen"/>wealths have been ruined by <hi>civil and inteſtine warres,</hi> then by <hi>invaſions</hi> and conqueſts: And if God ſhould be ſo good to us, as not to ſuffer our <hi>rents</hi> to be our <hi>ru<g ref="char:EOLhyphen"/>ines,</hi> yet I fear (it may at leaſt deprive us, of ſeeing that which we profeſſe we would all be ſo glad to ſee,) <hi>the peace of Zion, the good of Hieruſalem, the Refor<g ref="char:EOLhyphen"/>mation of the Church,</hi>
+               <note place="margin">Quam ſtulti eſſent duo volen<g ref="char:EOLhyphen"/>tes videre ſolem oriturum ſi con<g ref="char:EOLhyphen"/>tenderent inter ſe, qua parte ori urus eſset, &amp; quomodo videri poſſet, &amp; mota inter ſe controver<g ref="char:EOLhyphen"/>ſim litigarint, litigando ſe cederint caeden<g ref="char:EOLhyphen"/>do oculos juos exringuerent ut illum ortum videre non poſ<g ref="char:EOLhyphen"/>ſent. Aug lib. cont. Adium.</note> 
+               <hi>the Lord Jeſus upon his throne.</hi> 
+               <q>
+                  <hi>Quam ſtulti eſſent duo volentes videre ſolem,</hi> &amp;c. ſaith <hi>Auguſtine,</hi> What a folly were it in two men that did both deſire to ſee the riſing Sun, if they ſhould fall a quarrelling among themſelves, which part of the heavens the Sun would riſe in, and how it might be ſeen, and in this controverſie fall out, falling out fight, fighting put out one anothers eyes, and ſo when the Sun riſieth neither of them can ſee it.</q> I need make no application of this to us and our times.</p>
+            <p>But where is the fault you will ſay? True it is, there are <hi>diviſions, ſad diviſions, danger-threatning diviſions</hi> among us, but where is the fault? I know there are ma<g ref="char:EOLhyphen"/>ny, that lay all the fault upon thoſe whom they call <hi>Preſbyterians,</hi> and ſay it is their <hi>rigour,</hi> and their <hi>pride</hi> and <hi>ambition,</hi> their <hi>ſpirit of domination</hi> that is the cauſe of all theſe <hi>diviſions;</hi> thus ſay the <hi>Antinomians,</hi> and thus
+<pb n="41" facs="tcp:113501:23"/>the <hi>Separatiſts,</hi> and thus the <hi>Anabaptiſts,</hi> and thus the <hi>others</hi> ſay. Now the <hi>Lord</hi> judge <hi>between us</hi> and <hi>them,</hi> and let his people that <hi>hear</hi> judge this day.</p>
+            <p>Who are they that <hi>divide in judgement</hi> from all the <hi>Reformed Churches</hi> of Chriſt in the world, that have <hi>opinions</hi> and <hi>judgements</hi> differing from the opi<g ref="char:EOLhyphen"/>nions and judgements of all the Reformed Church<g ref="char:EOLhyphen"/>es? we or the Anabaptiſts? we or the Separatiſts? we or the—? Poſſibly they will all ſay they are of the ſame opinion with the Reformed Churches in fundamentalls as well as we, and their differen<g ref="char:EOLhyphen"/>ces, are but <hi>in Minutioribus.</hi> Now ſuppoſing this to be true (as it may be in ſome of them) why then do they tranſgreſſe the Apoſtles rule? why do they not if that it be in matters of leſſer moment where<g ref="char:EOLhyphen"/>in they differ from us, why do not they keep their opi<g ref="char:EOLhyphen"/>nions private, and <hi>have their faith unto themſelves before God?</hi> why do they upon <hi>ſo ſmall differences</hi> (if the differences be ſo ſmall) withdraw from communion with us and the reſt of the Churches, and gather themſelves into diſtinct and ſeparate Churches; ſome of them not <hi>holding one body</hi> with us, others neither holding <hi>one body</hi> nor <hi>one baptiſme</hi> with us? Their agreeing with us and the Reformed Church<g ref="char:EOLhyphen"/>es, in <hi>Doctrines</hi> that are <hi>fundamentall;</hi> their holding <hi>one head</hi> and one faith, doth not <hi>excuſe</hi> them from being guilty of <hi>breach of unity</hi> and <hi>down-right ſchiſme,</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> contr. <hi>Fauſt.</hi> lib <hi>20.</hi> cap. <hi>3.</hi> item de fide &amp; operi<g ref="char:EOLhyphen"/>bus, cap. <hi>3.</hi> &amp; contra Creſcon. Gram. <hi>lib. 2. cap 7.</hi>
+               </note> as long as they hold not <hi>one body, one baptiſme. Schiſ<g ref="char:EOLhyphen"/>ma</hi> (ſaith <hi>Auguſtine</hi>) <hi>eſt eadem opinantem &amp; eodem ritu utentem ſolo Congregationis delectari diſsidio.</hi> Schiſme is, when a man that profeſſeth the ſame faith and worſhip, is delighted only with the differ<g ref="char:EOLhyphen"/>ence
+<pb n="42" facs="tcp:113501:24"/>of an Aſſembly or Congregation. And again, <hi>Schiſmaticos facit non diverſa fides ſed communion is diſrupta ſocietas:</hi> It is not a differing faith, but break<g ref="char:EOLhyphen"/>ing the fellowſhip of communion that makes men ſchiſmaticks. And again, <hi>Schiſma eſt, Recens Con<g ref="char:EOLhyphen"/>gregationis ex aliquâ ſententiarum diverſitate diſſen<g ref="char:EOLhyphen"/>ſio:</hi> Schiſme is a new or late diſſenſion or diſagree<g ref="char:EOLhyphen"/>ment of a Congregation, ariſing from <hi>ſome</hi> diverſity of opinion. It is <hi>Beza's</hi> obſervation, That the <hi>Corinthians</hi> did agree in the <hi>fundamentals</hi> of <hi>Religion,</hi> and yet they had <hi>ſchiſmes</hi> among them, from whence he takes occaſion to ſay;<note place="margin">
+                  <hi>Beza annot. in</hi> 1 Cor. 1.10.</note> That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſive</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>eſt cum alij alijs hominibus ſive externis ritibus it a ſunt addicti, ut quamvis alioquin in ipſis Religionis capitibus conſen<g ref="char:EOLhyphen"/>tiant, tamen animis ſint ab alienati &amp; factiones quaſdam ineant:</hi> Schiſme or diviſion (ſaith he) is this, when men are ſo addicted to <hi>ſome men,</hi> or to ſome outward rites, that though they do agree in the chief points of Religion, yet they are eſtranged in their mindes, and engage themſelves into <hi>parties</hi> and <hi>factions:</hi> Now who are they that though they profeſſe to agree with us in Doctrine, have yet made a <hi>ſeceſsion,</hi> with drawn themſelves, gathered Churches, engaged parties? Conſider and give ſentence.</p>
+            <p>Who are they that have moſt broken the band of love? There is great fear what the <hi>Presbyterians</hi> will do if once they get power into their hands; But in the mean time what do others? Who are they that brand their brethren with the title <hi>Proud, Time-ſer<g ref="char:EOLhyphen"/>verves, Prelaticall, Tyrannicall, Antichriſtian?</hi> And what is this leſſe then perſecution?</p>
+            <p>Who are they that have been fartheſt from con<g ref="char:EOLhyphen"/>deſcending
+<pb n="43" facs="tcp:113501:24"/>deſcending to their brethren for <hi>peace</hi> and <hi>union</hi> ſake? were it fit, I could ſay ſomething of this, yea much: I could tell you much hath been yeelded, and much more would be yeelded, yea almoſt any thing but that <hi>one thing</hi> that would lay a foundation of perpe<g ref="char:EOLhyphen"/>tuall <hi>diviſion</hi> and <hi>diſunion</hi> in <hi>families, Church, Kingdom?</hi> Who are they that profeſſe an utter impoſſibility of <hi>reconciliaton</hi> or <hi>union,</hi> and plead for nothing but <hi>To<g ref="char:EOLhyphen"/>leration, Toleration,</hi> and ſome for <hi>Toleration</hi> in the <hi>ut<g ref="char:EOLhyphen"/>moſt latitude,</hi> to <hi>Papists, Jews, Turks,</hi>
+               <note place="margin">Vid. Praefotio<g ref="char:EOLhyphen"/>nem ad Acta Synodalia &amp; Vedet de Arca<g ref="char:EOLhyphen"/>nis Ariaini.</note> (the very artifice whereby the <hi>Arminians</hi> in <hi>Holland</hi> ſought to gain a <hi>party</hi> and <hi>ſtrength</hi> unto themſelves; <hi>Reſolve</hi> theſe <hi>queſtions,</hi> and they will reſolve you who are moſt guilty of theſe diviſions. But as <hi>Augustine</hi> ſaid ſometimes of <hi>Originall ſin,</hi> ſo ſay I of theſe our <hi>di<g ref="char:EOLhyphen"/>viſions, Non tam inquirendam,</hi> &amp;c. It is time better ſpent, to inquire how we may come out of them, then who hath brought us into them. It was a me<g ref="char:EOLhyphen"/>morable ſpeech of <hi>Calvin,</hi> who ſaid he would wil<g ref="char:EOLhyphen"/>lingly travell over all the ſeas and Countries in the world, to put an end to the differences that were in the Reformed Churches: And I thinke there is ne<g ref="char:EOLhyphen"/>ver a gracious heart, but would be willing to ſuffer baniſhment, death, yea could almoſt with <hi>Paul,</hi> wiſh himſelf <hi>Anathema,</hi> accurſed, ſo he might but put an end to theſe unhappy differences of our unhappy times. Towards which, give me leave to ſpeak a few words to you in a third Uſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> This truth, <hi>That it is the duty of all thoſe that would walke worthy of the Goſpel, to endeavour a ſweet, cloſe, holy laſting union:</hi> ſerves in the the third place, to <hi>exhort</hi> and <hi>excite every one</hi> to theſe endeavours; and
+<pb n="44" facs="tcp:113501:25"/>it is impoſſible to propound this <hi>exhortation</hi> in more <hi>perſuaſive</hi> and prevailing <hi>language</hi> then that of our Apoſtle, <hi>Phil.</hi> 2.1, 2. <hi>If there be therefore any conſo<g ref="char:EOLhyphen"/>lation in Chriſt, if any comfort in love, if any fellow<g ref="char:EOLhyphen"/>ſhip of the Spirit, if any bowels and mercy, full ſill you my joy, that ye be like minded, having the ſame love, being of one accord, of one minde.</hi> And O that I were able ſo to repeat theſe words, that they might reach not only your <hi>ears,</hi> but yours <hi>hearts,</hi> and not <hi>only yours,</hi> but the <hi>ears</hi> and hearts of all that have a ſeed of grace in them throughout this whole <hi>Kingdom.</hi> It is ſaid of <hi>John</hi> the <hi>Evangliſt,</hi> who was the <hi>Beloved</hi> Diſciple, and the <hi>Apoſtle of love,</hi> that as in his life time he did often and much exhort to <hi>love,</hi> ſaying, <hi>Little children love one another.</hi> So when he died, he died breathing out the ſame exhortation, <hi>Little children love one another.</hi> Me thinks I could even live and die with thoſe words of <hi>Paul</hi> in my mouth; <hi>If there be any conſolation in Chriſt, if any comfort in love, if any fellowſhip of the Spirit, if any bowels and mer<g ref="char:EOLhyphen"/>cies, be ye like minded, having the ſame love, being of one accord, of one minde.</hi>
+            </p>
+            <p>For Motive, I will uſe but two; and you have them both in one Scripture, <hi>Pſalm.</hi> 133. the whole <hi>Pſalme</hi> is nothing elſe but a <hi>commendation</hi> of this <hi>grace</hi> and <hi>duty</hi> whereof we have been ſpeaking:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Chryſ. <hi>in</hi> Pſ. 132.</note> In intend not to undertake the whole <hi>Pſalme</hi> at this time, but only caſt your eye upon the firſt verſe of it, and there you reade two things of this <hi>unity;</hi> firſt, <hi>it is good;</hi> ſecondly, <hi>it is pleaſant;</hi> and it is <hi>admirably</hi> good and pleaſant: <hi>Behold how good!</hi> how wonder<g ref="char:EOLhyphen"/>fully good? how beyond expreſſion good it is, for
+<pb n="45" facs="tcp:113501:25"/>
+               <hi>brethren to dwell together in unity: Some</hi> things are <hi>good</hi> but not <hi>pleaſant,</hi> ſome things are <hi>pleaſant</hi> but not good; but <hi>unity</hi> is both <hi>good</hi> and pleaſant.</p>
+            <p>Firſt, it is <hi>good, wonderfull good</hi> many wayes; good, firſt in reference <hi>to our ſelves,</hi> as it is an <hi>evidence</hi> of our <hi>election</hi> and <hi>grace,</hi> received from Jeſus Chriſt. This may at firſt ſeem ſtrange: Many do not thinke that a <hi>harmonious</hi> ſpirit ſweetly complying with the ſpirits of Gods people, deſiring to keep the <hi>unity of the ſpirit in the bond of peace;</hi> to maintain cloſe u<g ref="char:EOLhyphen"/>nion and communion with the Saints, is a ſigne of <hi>election,</hi> and of an evidence of grace. But Scripture makes it ſo: <hi>Joh.</hi> 11.17, 11. <hi>Father keep through thy holy Name thoſe whom thou hast given me, that they may be one.</hi> So <hi>ver.</hi> 22. <hi>and the glory which thou haſt gi<g ref="char:EOLhyphen"/>ven me I have given them, that they may be one.</hi> Phil. 2. <hi>If there be any conſolation in Chriſt, if any fellowſhip of the Spirit, be ye of one minde.</hi> This <hi>oneneſſe</hi> then is a <hi>grace</hi> peculiar to thoſe that have the <hi>fellowſhip of the ſpirit,</hi> that have <hi>received of the grace of Chriſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ <hi>in</hi> 1 Cor. <hi>Hom.</hi> 32.</note> that are <hi>given to him by the Father.</hi> Not but that there may be an <hi>externall</hi> and <hi>viſible union</hi> where there is none of this, and ſo there may be an <hi>externall vi<g ref="char:EOLhyphen"/>ſible Faith, Repentance, holineſſe</hi> in thoſe that are <hi>not elect,</hi> that have <hi>no grace</hi> and <hi>true, reall faith</hi> and <hi>ſan<g ref="char:EOLhyphen"/>ctification;</hi> a <hi>beleeving, holy</hi> frame of heart, is an <hi>in<g ref="char:EOLhyphen"/>fallible ſigne</hi> of <hi>election:</hi> So is a <hi>ſweet, loving, peace<g ref="char:EOLhyphen"/>able</hi> frame of <hi>heart,</hi> a <hi>heart naturally cloſing</hi> with the Church and people of God, <hi>tender</hi> of <hi>differing</hi> and <hi>parting</hi> from <hi>them, ſtudying</hi> wayes of <hi>love</hi> and <hi>union:</hi> Joh. 13.35. <hi>By this ſhall all men know that you are my Diſciples, if you have love one to another.</hi>
+            </p>
+            <pb n="46" facs="tcp:113501:26"/>
+            <p>Secondly it is good, as in reference to <hi>our ſelves,</hi> ſo in reference to <hi>our Lord Jeſus Chriſt:</hi> (if any thing that is in ſuch poor creatures may be ſaid to be <hi>good for Jeſus Chriſt</hi>) this <hi>unity</hi> among <hi>Chriſtians,</hi> among <hi>pro<g ref="char:EOLhyphen"/>feſſours</hi> brings <hi>honour</hi> to <hi>Jeſus Chriſt;</hi> Joh. 17.21, 23. <hi>That the world may beleeve that thou haſt ſent me; that the world may know that thou haſt ſent me;</hi> as if there were no ſuch efficacious means to convince the ene<g ref="char:EOLhyphen"/>mies of Chriſt, that he is indeed the <hi>Sonne of God,</hi> and came forth from him, as this <hi>union</hi> and <hi>agreement</hi> of thoſe that profeſſe him; whereas on the contrary, <hi>diſunion</hi> and <hi>diſcord</hi> among them, as you have heard al<g ref="char:EOLhyphen"/>already, opens the mouth of our adverſaries to blaſ<g ref="char:EOLhyphen"/>pheme <hi>Christ</hi> and our Religion.<note place="margin">Scimu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; cen<g ref="char:EOLhyphen"/>ſtat quia ca<g ref="char:EOLhyphen"/>ſtrorum actes tunc tetribilis hoſt thus oſt en<g ref="char:EOLhyphen"/>ditur, quan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ita ſuerit con<g ref="char:EOLhyphen"/>ſtipara ar<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> denſata ut in nullo loco in<g ref="char:EOLhyphen"/>terrupta vide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tur. Nam ſi ita diſponitur ut to c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s vacuus per quem hoſt is poſ<g ref="char:EOLhyphen"/>ſit ingredi ve<g ref="char:EOLhyphen"/>deatur hoſt bus terribilis no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt Nos ergo per char<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tatem ſemper uniti &amp; conſtracti nun<g ref="char:EOLhyphen"/>quam interrup<g ref="char:EOLhyphen"/>ti per diſcor<g ref="char:EOLhyphen"/>diam <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ve <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ae<g ref="char:EOLhyphen"/>mur, &amp;c. <hi>Greg.</hi>
+               </note>
+            </p>
+            <p>Thirdly, It is good for the <hi>Church.</hi> This union is a great ſtrengthning unto it, makes that <hi>terrible as an army with banners, Cant.</hi> 6.4, 10. The ſtrength and ter<g ref="char:EOLhyphen"/>rour of the <hi>Macedonian Phalanx,</hi> lay in <hi>ſtipatione &amp; con<g ref="char:EOLhyphen"/>denſatione,</hi> in their thick, firm, cloſe ſtanding. So in the <hi>Church:</hi> as it is in the <hi>body naturall,</hi> not only the beauty, but the <hi>ſafety,</hi> the <hi>strength,</hi> the <hi>life</hi> of the <hi>body</hi> (conſiſts in the union of parts. The <hi>luxation</hi> of a <hi>member, pains, deforms</hi> the <hi>body,</hi> but the <hi>diſmembring deſtroyes</hi> it. So in the <hi>body myſticall</hi> the <hi>Church.</hi> The <hi>Church is a ſhip;</hi> let the <hi>windes riſe,</hi> and the <hi>waves</hi> ſwell and toſſe: as long as the <hi>planks,</hi> the <hi>ſides</hi> of the <hi>ſhip hold,</hi> there may be ſome <hi>poſsibility</hi> of <hi>outriding the ſtorm,</hi> and <hi>eſcaping</hi> the danger, but if the <hi>planks</hi> and <hi>peeces</hi> of the <hi>ſhip</hi> ſtart and fly one from another, there's no way but preſent periſhing: <hi>laxis laterum compagibus—&amp;c.</hi>
+            </p>
+            <p>Fourthly, It is good <hi>for thoſe that are without,</hi> it may help to ingratiate <hi>Religion</hi> and the <hi>truth</hi> of God
+<pb n="47" facs="tcp:113501:26"/>unto them, and draw on their <hi>converſion.</hi> 
+               <q>There is nothing (ſaith <hi>Chryſoſtom</hi>) ſo attractive as love.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp;c. Chryſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>in</hi> 1 Cor. Hom. 33.</note> For ſignes and wonders wrought by you (ſaith he) men may emulate you, but for this they will admire and love you, and loving you, will apprehend the truth, and walk in the way. And if preſently the Heathen (for of ſuch a man he is ſpeaking) doe not turne beleever, wonder not, be not troubled at it; but ſuffer him to praiſe you and love you, and in time he will in this way come to be a beleever.</q> 
+               <hi>Be<g ref="char:EOLhyphen"/>hold</hi> then how good <hi>this unity is! good for your ſelves, good</hi> for the Lord <hi>Chriſt, good</hi> for the <hi>Church, good</hi> for <hi>thoſe</hi> that are <hi>without;</hi> therefore for their <hi>ſakes,</hi> for the <hi>Churches ſake,</hi> for <hi>Chriſts ſake,</hi> for <hi>your own ſakes</hi> en<g ref="char:EOLhyphen"/>deavour after this unity.</p>
+            <p>Secondly, This unity as it is <hi>good,</hi> ſo it is <hi>pleaſant. Behold how</hi> good and how pleaſant it is! and it muſt needs be ſo, if heaven it ſelf be pleaſant, for there is perfect <hi>Vnion</hi> and <hi>Harmony.</hi> In <hi>Heaven</hi> they all <hi>think</hi> and <hi>ſpeak the ſame thing,</hi> there are no <hi>diviſions</hi> in <hi>Hea<g ref="char:EOLhyphen"/>ven.</hi> And I am confident there is none of you can imagine, but if we could attain to ſuch an <hi>union</hi> and <hi>harmony</hi> here upon earth, it would be a moſt <hi>ſweet</hi> and pleaſant thing. For firſt hereby we ſhould be the better enabled to <hi>praiſe</hi> and <hi>glorify</hi> God, Rom. 15.5. <hi>Now the God of patience and conſolation, grant you to be like minded one towards another in Christ Jeſus.</hi> To what end? <hi>That ye may with one minde and one mouth glorify God, even the Father of our Lord Jeſus Chriſt.</hi> The more <hi>union</hi> and <hi>harmony</hi> among us, the more melody in our <hi>praiſes,</hi> the more <hi>glory</hi> to our <hi>God.</hi>
+            </p>
+            <pb n="48" facs="tcp:113501:27"/>
+            <p>Secondly hereby we ſhall <hi>converſe</hi> together with the more <hi>joy</hi> and <hi>gladnes,</hi> Act. 2.4. <hi>And they continu<g ref="char:EOLhyphen"/>ing daily with one accord in the Temple, did eat ther meat with gladnes and ſinglenes of heart.</hi>
+            </p>
+            <p>Thirdly, By all this the Goſpel and wayes of Re<g ref="char:EOLhyphen"/>ligion, will be rendred more lovely and amiable in the eyes of others. See <hi>Act.</hi> 2.47. <hi>Praiſing God,</hi> and having <hi>favour with all the people.</hi> It was not ſo much their <hi>ſpeaking with tongues,</hi> or <hi>working of miracles,</hi> as their union and <hi>accord</hi> among themſelves,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryſ <hi>in</hi> 1 Cor. Hom. 32.</note> that procu<g ref="char:EOLhyphen"/>red them this <hi>favour with all the people.</hi> 
+               <q>If men (ſaith <hi>Chryſoſto<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>) ſhould doe 10. thouſand ſigns or wonders, and be at variance among themſelves, they would be <hi>ridiculous:</hi> Whereas on the other ſide, if they love one another perfectly, though they do no won<g ref="char:EOLhyphen"/>ders; they will continue reverenced and unconque<g ref="char:EOLhyphen"/>red. We admire <hi>Paul,</hi> ſaith he, not for <hi>raiſing the dead,</hi> nor for <hi>cleanſing the Lepers,</hi> but becauſe he ſaid, <hi>Who is weak, and I am not weak? who is offended, and I burne not?</hi> for if you adde ten thouſand miracles to this, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, you ſpeaking of nothing comparable with it.</q> Nothing among the Saints ſo amiable in the eyes of others then as <hi>unity,</hi> behold how pleaſant it is!</p>
+            <p>Now if any ſhall ſay, how may this <hi>unity</hi> be attain<g ref="char:EOLhyphen"/>ed? <hi>Hic labor hoc opus.</hi> To give direction unto unto this, would be the work (not onely of another Ser<g ref="char:EOLhyphen"/>mon) but of a <hi>large diſcourſe.</hi> For the preſent be pleaſed to take theſe few, but ſure directions.</p>
+            <p>Firſt labour to get all our hearts convinced, that it is our duty to endeavour union: till this be done, our hearts will never ſet to endeavour it in earneſt.</p>
+            <pb n="49" facs="tcp:113501:27"/>
+            <p>Secondly, See our differences, our diſunions, our rents, diviſions, to be our ſin, our ſhame, and not our felicity or glory, that we have ſo many differing opinions and wayes.</p>
+            <p>Thirdly, Examine our ſelves every one how farre we have had our hands in theſe rents and diviſions, either as authours, abettors or encouragers of them, and ſo far as guilt cleaves to any of us let us be hum<g ref="char:EOLhyphen"/>bled for it.</p>
+            <p>Fourthly, See a beauty and comelineſſe in union, look upon it not only as a duty, but as a lovely duty, as a pleaſant duty, and this will make us not only <hi>en<g ref="char:EOLhyphen"/>deavour</hi> it, but <hi>endeavour</hi> it in <hi>love,</hi>
+            </p>
+            <p>Fifty, Get the graces that are conducing to it, <hi>Rom.</hi> 12.18. <hi>Be of the ſame minde one towards another,</hi> theres the duty: <hi>minde not high things, but condeſcend to men of low eſtate. Be not wiſe in your own eyes; Recompence un<g ref="char:EOLhyphen"/>to no man evil for evil.</hi> Could we thus be and walke, how ſoon ſhould we be <hi>at one</hi> among our ſelves, <hi>Epheſ.</hi> 4.2, 3. <hi>Endeavouring to keep the unity of the ſpirit in the bond of peace:</hi> There is the duty, <hi>ver.</hi> 3. <hi>with all low<g ref="char:EOLhyphen"/>lineſſe and meekneſſe, with long ſuffering, forbearing one another in love,</hi> ver. 2. there are the <hi>graces</hi> conducing to this <hi>union,</hi> Phil. 2.2, 3, 4. <hi>Be ye like minded, having the ſame love, being of one accord, having the fame minde;</hi> Theres the duty. <hi>Let nothing be done through ſtrife or vainglory, but in lowlineſſe of minde, let each eſteem others better then themſelves. Look not every man on his own things, but every man alſo on the things of others. Let the ſame minde be in you that was in Chriſt Jeſus.</hi> There are the means of attaining to this duty. O that God would write theſe Scriptures in our hearts, <hi>root
+<pb n="50" facs="tcp:113501:28"/>out</hi> the <hi>corruptions</hi> here condemned, <hi>plant in us</hi> the <hi>graces</hi> here <hi>commended,</hi> how ſoon ſhould we ſee an end of our <hi>differences,</hi> and all the people of God be of <hi>one heart and one ſoul.</hi>
+            </p>
+            <p>Sixtly, Pray much for <hi>union.</hi> There are other things that we are much in prayer for, we pray for <hi>purity,</hi> we pray for <hi>Reformation,</hi> and we do well; we pray againſt <hi>perſecution,</hi> that the <hi>Saints</hi> may not be <hi>perſecuted,</hi> &amp;c. but how few pray for <hi>union,</hi> that the <hi>Saints</hi> may <hi>not be toſsed to and fro with every winde of doctrine,</hi> that the <hi>Saints</hi> may not be <hi>divided</hi> in <hi>judgement</hi> and <hi>affection,</hi> though I know not any Church-bleſſing we have more cauſe or more encouragement to pray for then this; This God hath promiſed, <hi>Jer.</hi> 32.39. In praying for this, we are ſure we have Chriſt joyning with us. That prayer of his <hi>Joh.</hi> 17. is <hi>eternally</hi> preſent with the Father, and of eternall <hi>efficacy</hi> to this purpoſe: O therefore <hi>pray, pray,</hi> it is that which God hath promiſed, it is for that which Chriſt hath prayed: Pray for <hi>union</hi> among <hi>brethren,</hi> for <hi>union</hi> in the <hi>Church</hi> of Chriſt. <hi>Now the God of all patience and conſolation, grant you to be like<g ref="char:EOLhyphen"/>minded one towards another according to Chriſt Jeſus; that ye may with one minde and one mouth, glorifie God even the Father of our Lord Jeſus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:113501:28"/>
+            <head>Errata.</head>
+            <p>PAge 6. line <hi>ult. moneat</hi> read <hi>maneat,</hi> p. 7. l. 1. <hi>ceſſit</hi> r. <hi>ceſſat,</hi> p. 18. l. 20. <hi>Idolathytes</hi> r. <hi>Idolothytes,</hi> p. 21. l. 6. <hi>then we cannot</hi> r. <hi>then when we cannot,</hi> l. 25. <hi>Laws of and</hi> dele <hi>of,</hi> p. 22. l 14. <hi>will fully</hi> r. <hi>willfully,</hi> p. 25. l. 5. <hi>Gospel are to</hi> dele <hi>are,</hi> p. 29. l. 16. <hi>which ſo precious</hi> r. <hi>which is ſo precious,</hi> l. 26. dele <hi>then,</hi> p. 33. l. 20. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 34. l. 17. <hi>Damacus</hi> r. <hi>Da<g ref="char:EOLhyphen"/>maſus,</hi> l. 30. <hi>beteradox</hi> r. <hi>beterodox,</hi> p. 36. in marg. l. 19. <hi>triviae</hi> r. <hi>trivie,</hi> p. 36. l. 28. <hi>Camerarus</hi> r. <hi>Camerarius,</hi> p. 17 l. 6 <hi>asperto</hi> r. <hi>aſporto,</hi> l. 8. <hi>oſt en<g ref="char:EOLhyphen"/>ſuirat</hi> r. <hi>oſtenſurus,</hi> l 18. <hi>Sinnonde</hi> r. <hi>Simonds,</hi> l. 20, &amp; 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Britanamochia</hi> r. <hi>Britannomachia,</hi> l. 23. <hi>Flarius</hi> r. <hi>Flacius,</hi> p. 39. l. 18. <hi>judicious</hi> r. <hi>inju<g ref="char:EOLhyphen"/>dicious,</hi> p. 40. l. 23. <hi>riſieth</hi> r. <hi>riſeth,</hi> p. 45. l. 12. <hi>and of an evidence dele of.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
